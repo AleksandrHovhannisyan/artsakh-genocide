@@ -1,28 +1,57 @@
-You may freely copy any part of this document for use in emails and on social media to spread awareness. If you are already familiar with this conflict and are wondering how you can help, jump to [what you can do](#what-you-can-do).
+<!-- omit in toc -->
+# A second Armenian genocide is currently underway
 
-## A second Armenian genocide
+You may freely copy any part of this document to spread awareness. If you are already familiar with this conflict and are wondering how you can help, jump to [what you can do](#what-you-can-do).
 
-Since December 12, 2022, [Azerbaijan has blockaded the Lachin Corridor](https://www.forbes.com/sites/ewelinaochab/2023/08/08/lachin-corridor-blockade-starves-nagorno-karabakh/), the sole land link connecting Nagorno Karabakh to Armenia and the outside world. Nagorno Karabakh (known to Armenians as *Artsakh*) is a self-declared republic of 120,000 ethnic Armenians in the Caucasus; while its status remains disputed, one fact is clear: Azerbaijan is blockading Nagorno Karabakh with the aim of **ethnically cleansing the population by starvation**.
+<!-- omit in toc -->
+## Table of Contents
+- [Overview: The Lachin Corridor blockade (ongoing)](#overview-the-lachin-corridor-blockade-ongoing)
+  - [A binding ICJ order, international condemnation, and genocide alerts](#a-binding-icj-order-international-condemnation-and-genocide-alerts)
+  - [Death by starvation](#death-by-starvation)
+  - [Azerbaijani propaganda and denial of the genocide](#azerbaijani-propaganda-and-denial-of-the-genocide)
+- [Silence is violence](#silence-is-violence)
+  - [The European Union](#the-european-union)
+  - [Russia](#russia)
+  - [Israel](#israel)
+  - [Turkey](#turkey)
+  - [The United States](#the-united-states)
+- [What you can do](#what-you-can-do)
+- [Further reading](#further-reading)
+  - [The Lachin Corridor blockade](#the-lachin-corridor-blockade)
+  - [Crimes, war crimes, and the pardoning of Azeri war criminals](#crimes-war-crimes-and-the-pardoning-of-azeri-war-criminals)
+  - [Armenophobia and anti-Armenian propaganda in Azerbaijan](#armenophobia-and-anti-armenian-propaganda-in-azerbaijan)
+  - [Erasure of Armenian cultural monuments in Nagorno Karabakh](#erasure-of-armenian-cultural-monuments-in-nagorno-karabakh)
+  - [Azerbaijani influence in Western media and politics](#azerbaijani-influence-in-western-media-and-politics)
+
+## Overview: The Lachin Corridor blockade (ongoing)
+
+Since December 12, 2022, [Azerbaijan has been blockading the Lachin Corridor](https://www.forbes.com/sites/ewelinaochab/2023/08/08/lachin-corridor-blockade-starves-nagorno-karabakh/), the sole land link connecting Nagorno Karabakh to Armenia and the rest of the world. Nagorno Karabakh (known to Armenians as *Artsakh*) is a self-declared republic of 120,000 ethnic Armenians in the Caucasus. Initially launched under the false pretext of [environmental activism](https://time.com/6257467/armenia-azerbaijan-nagorno-karabakh-lachin-environment-icj/), the Lachin Corridor blockade has now evolved into a full-blown and coordinated effort to **ethnically cleanse Artsakh**.
+
+Over the past several years, Azerbaijan has been testing the waters of what the international community considers acceptable. Now, it intends to finish [what the Ottoman Turks started in 1915](https://en.wikipedia.org/wiki/Armenian_genocide). This modern-day genocide underscores the failure of western diplomacy.
+
+### A binding ICJ order, international condemnation, and genocide alerts
+
+The [2020 trilateral ceasefire agreement](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement) signed by Armenia and Azerbaijan is clear about the status of the Lachin Corridor:
+
+> The Lachin Corridor (5 km wide), which will provide a connection between Nagorno-Karabakh and Armenia while not passing through the territory of Shusha, shall remain under the control of the Russian Federation peacemaking forces. The Republic of Azerbaijan shall guarantee the security of persons, vehicles and cargo moving along the Lachin Corridor in both directions. 
+
+In violation of the ceasefire agreement, Azerbaijan has been blockading the Lachin Corridor since December 2022.
+
+On February 22, 2023, the International Court of Justice—the UN's highest court—[issued a legally binding ruling](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf) that orders Azerbaijan to end the blockade and allow free movement of civilians in both directions; Azerbaijan has ignored this order with impunity. So far, the blockade has been condemned internationally by [members of the U.S. Congress](https://www.congress.gov/bill/118th-congress/house-resolution/108?s=1&r=97), the UN, the European Union, Human Rights Watch, Amnesty International, the Red Cross, the Lemkin Institute for Genocide Prevention, and countless others.
+
+On August 7, 2023, former International Criminal Court prosecutor Luis Moreno Campo [wrote a report noting that these actions amount to genocide](https://luismorenoocampo.com/lmo_en/report-armenia/), comparable to war crimes committed by Ratko Mladić in Srebrenica during the Bosnian genocide. On August 18, the Lemkin Institute issued [an active genocide alert for Artsakh](https://www.lemkininstitute.com/active-genocide-alert-1/active-genocide-alert-azerbaijan----in-artsakh-).
+
+### Death by starvation
 
 Early on in the blockade, Red Cross vehicles were granted intermittent passage to tend to critically ill patients. [As of July 2023](https://www.icrc.org/en/document/azerbaijan-armenia-sides-must-reach-humanitarian-consensus-to-ease-suffering), Azerbaijan is no longer permitting the Red Cross to enter Nagorno Karabakh.
 
 > Despite persistent efforts, the International Committee of the Red Cross (ICRC) is not currently able to bring humanitarian assistance to the civilian population through the Lachin corridor or through any other routes, including Aghdam.
 
-On February 22, 2023, the International Court of Justice—the UN's highest court—[ordered Azerbaijan to end the blockade and allow free movement of civilians in both directions](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf); Azerbaijan has ignored this order with impunity. The blockade is a humanitarian catastrophe that has been condemned internationally by [members of the U.S. Congress](https://www.congress.gov/bill/118th-congress/house-resolution/108?s=1&r=97), the UN, the European Union, Human Rights Watch, Amnesty International, the Red Cross, the Lemkin Institute for Genocide Prevention, and countless others. On August 7, 2023, former International Criminal Court prosecutor Luis Moreno Campo [wrote a report noting that these actions amount to genocide](https://luismorenoocampo.com/lmo_en/report-armenia/), comparable to war crimes committed by Ratko Mladić in Srebrenica during the Bosnian genocide.
+As a result of the blockade, food has been severely rationed in Nagorno Karabakh; miscarriages have nearly tripled, and medical complications have sharply risen. Baby formula, essential hygiene products, and basic food necessities are all in critically short supply. [A convoy of Armenian trucks carrying 360 tons of food](https://www.rferl.org/a/azerbaijan-blocks-armenian-aid-convoy-/32522087.html) is currently stranded outside the Lachin Corridor checkpoint. On August 15, 2023, K. Hovhannisyan, a 40-year-old resident of Nagorno Karabakh, [died of malnourishment and starvation](https://armenpress.am/eng/news/1117440.html); photos of his emaciated body circulated on social media. If the blockade is not lifted, nearly 30,000 children will share a similar fate: malnutrition and, eventually, death.
 
-As a result of the blockade, food has been severely rationed in Nagorno Karabakh; miscarriages have nearly tripled, and medical complications have sharply risen. Baby formula, essential hygiene products, and basic food necessities are all in critically short supply. [A convoy of Armenian trucks carrying 360 tons of food](https://www.rferl.org/a/azerbaijan-blocks-armenian-aid-convoy-/32522087.html) is currently stranded outside the Lachin Corridor checkpoint, just barely out of reach. On August 15, 2023, K. Hovhannisyan, a 40-year-old resident of Nagorno Karabakh, [died of malnourishment and starvation](https://armenpress.am/eng/news/1117440.html); photos of his emaciated body circulated on social media. If the blockade is not lifted, nearly 30,000 children will share a similar fate: malnutrition and, eventually, death.
+### Azerbaijani propaganda and denial of the genocide
 
-Over the past several years, Azerbaijan has been testing the waters of what the international community considers acceptable. Now, it intends to finish [what the Ottoman Turks started in 1915](https://en.wikipedia.org/wiki/Armenian_genocide). This modern-day genocide underscores the failure of western diplomacy.
-
-## Azerbaijani propaganda and genocide denial
-
-The [trilateral ceasefire agreement of 2020](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement) is clear about the status of the Lachin Corridor:
-
-> The Lachin Corridor (5 km wide), which will provide a connection between Nagorno-Karabakh and Armenia while not passing through the territory of Shusha, shall remain under the control of the Russian Federation peacemaking forces. The Republic of Azerbaijan shall guarantee the security of persons, vehicles and cargo moving along the Lachin Corridor in both directions. 
-
-And yet, in violation of the ceasefire agreement, the Lachin Corridor has been blockaded for over eight months.
-
-Meanwhile, [according to Azerbaijani state propaganda](https://www.politico.eu/article/nagorno-karabakh-armenia-azerbaijan-blockade-checkpoint/), there is no blockade and people are free to move in either direction; this stance was echoed by Azerbaijan's representative to the UN during [the August 16 emergency UNSC meeting](https://media.un.org/en/asset/k14/k1498sf9lh). At the same time, Azerbaijan has proposed transporting its own humanitarian aid via [an alternative land route through the town of Aghdam](https://jam-news.net/baku-offers-road-through-agdam-instead-of-lachin/). These conflicting narratives raise two important questions:
+[According to Azerbaijani state propaganda](https://www.politico.eu/article/nagorno-karabakh-armenia-azerbaijan-blockade-checkpoint/), there is no blockade and people are free to move in either direction; this stance was echoed by Azerbaijan's representative to the UN during [the August 16 emergency UNSC meeting](https://media.un.org/en/asset/k14/k1498sf9lh). At the same time, Azerbaijan has proposed transporting its own humanitarian aid via [an alternative land route through the town of Aghdam](https://jam-news.net/baku-offers-road-through-agdam-instead-of-lachin/). These conflicting narratives raise two important questions:
 
 1. First, if there is no blockade, what is the need for humanitarian aid or an alternative transportation route?
 2. Second, if Azerbaijan truly intends to make peace with the Armenians of Nagorno Karabakh, why would it impose this barbaric blockade in the first place and attempt to starve them into submission?
@@ -75,7 +104,7 @@ Even if you do not reside in the U.S., **your voice can still make an impact**. 
 
 The links below provide important context on this decades-long conflict between Armenia and Azerbaijan.
 
-### Lachin Corridor blockade (2022–ongoing)
+### The Lachin Corridor blockade
 - [February 22, 2023 ICJ order](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf) | [Archive](https://web.archive.org/web/20230314045608/https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf)
 - [Sieged and Starved: 120,000 Armenians](https://providencemag.com/2023/05/sieged-and-starved-120000-armenians/) | [Archive](https://web.archive.org/web/20230000000000*/https://providencemag.com/2023/05/sieged-and-starved-120000-armenians/)
 - [The Post's View: Azerbaijan should reopen the Lachin corridor — and avert another war](https://www.washingtonpost.com/opinions/2023/08/16/azerbaijan-nagorno-karabakh-blockade-armenia/) | [Archive](https://web.archive.org/web/20230816223437/https://www.washingtonpost.com/opinions/2023/08/16/azerbaijan-nagorno-karabakh-blockade-armenia/)
@@ -103,7 +132,6 @@ The links below provide important context on this decades-long conflict between 
 - [Turkish Ultranationalist Group Linked to “Hunt For Armenians” in France](https://www.vice.com/en/article/epddna/turkey-france-armenia-grey-wolves-lyon) | [Archive](https://web.archive.org/web/20230526141556/https://www.vice.com/en/article/epddna/turkey-france-armenia-grey-wolves-lyon)
 - [Erdogan's speech after the 44-day war honors Enver Pasha and other orchestrators of the Armenian Genocide](https://44days.info/speech-by-president-recep-tayyip-erdogan/) | [Archive](https://web.archive.org/web/20230606061453/https://44days.info/speech-by-president-recep-tayyip-erdogan/)
 - [Debunking Azerbaijani History Books](https://www.youtube.com/watch?v=vlUveFSZxUU)
-- [What’s Behind All the Pro-Azerbaijan Articles?](https://armenianweekly.com/2020/10/24/whats-behind-all-the-pro-azerbaijan-articles/) | [Archive](https://web.archive.org/web/20230201001152/https://armenianweekly.com/2020/10/24/whats-behind-all-the-pro-azerbaijan-articles/)
 - [Anti-Armenian flyers promoting 'completion of genocide' appear in Glendale](https://www.foxla.com/news/anti-armenian-flyers-glendale) | [Archive](https://web.archive.org/web/20230605003156/https://www.foxla.com/news/anti-armenian-flyers-glendale)
 - [Azeri Telegram channel calling for a second Armenian genocide](https://t.me/patriots_aze/2883) | [Archive](https://web.archive.org/web/20230810083904/https://t.me/patriots_aze/2883)
 
@@ -112,4 +140,9 @@ The links below provide important context on this decades-long conflict between 
 - [Report shows near-total erasure of Armenian heritage sites](https://news.cornell.edu/stories/2022/09/report-shows-near-total-erasure-armenian-heritage-sites) | [Archive](https://web.archive.org/web/20230604232614/https://news.cornell.edu/stories/2022/09/report-shows-near-total-erasure-armenian-heritage-sites)
 - [Azerbaijan Desecrates Armenian Cultural and Religious Heritage](https://providencemag.com/2022/12/azerbaijan-desecrates-armenian-cultural-and-religious-heritage/) | [Archive](https://web.archive.org/web/20230604232614/https://news.cornell.edu/stories/2022/09/report-shows-near-total-erasure-armenian-heritage-sites)
 - [Is the Destruction of Armenian Heritage Not Important Enough for the Getty? ](https://hyperallergic.com/804374/is-the-destruction-of-armenian-heritage-not-important-enough-for-the-getty/) | [Archive](https://web.archive.org/web/20230627023942/https://hyperallergic.com/804374/is-the-destruction-of-armenian-heritage-not-important-enough-for-the-getty/)
+
+### Azerbaijani influence in Western media and politics 
+- [UK at centre of secret $3bn Azerbaijani money laundering and lobbying scheme](https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme) | [Archive](https://web.archive.org/web/20230607235216/https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme)
+- [How an Authoritarian Regime Infiltrated a Government in the Heart of Europe](https://www.vice.com/en/article/qjp74b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev) | [Archive](https://web.archive.org/web/20230512103544/https://www.vice.com/en/article/qjp74b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev)
+- [What’s Behind All the Pro-Azerbaijan Articles?](https://armenianweekly.com/2020/10/24/whats-behind-all-the-pro-azerbaijan-articles/) | [Archive](https://web.archive.org/web/20230201001152/https://armenianweekly.com/2020/10/24/whats-behind-all-the-pro-azerbaijan-articles/)
 
