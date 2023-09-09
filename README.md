@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# A second Armenian genocide is currently underway
+# Artsakh Genocide (2022–present)
 
 You may freely copy any part of this document to spread awareness. If you are already familiar with this conflict and are wondering how you can help, jump to [what you can do](#what-you-can-do).
 
@@ -7,25 +7,28 @@ You may freely copy any part of this document to spread awareness. If you are al
 ## Table of Contents
 - [Overview: The Lachin Corridor blockade (ongoing)](#overview-the-lachin-corridor-blockade-ongoing)
   - [A binding ICJ order, international condemnation, and genocide alerts](#a-binding-icj-order-international-condemnation-and-genocide-alerts)
-  - [Death by starvation](#death-by-starvation)
-  - [Azerbaijani propaganda and denial of the genocide](#azerbaijani-propaganda-and-denial-of-the-genocide)
+  - [Starvation as a weapon of genocide](#starvation-as-a-weapon-of-genocide)
+  - [Denial of the genocide](#denial-of-the-genocide)
 - [Silence is violence](#silence-is-violence)
   - [The European Union](#the-european-union)
   - [Russia](#russia)
+  - [The United Kingdom](#the-united-kingdom)
+  - [Germany](#germany)
+  - [Italy](#italy)
   - [Israel](#israel)
   - [Turkey](#turkey)
   - [The United States](#the-united-states)
 - [What you can do](#what-you-can-do)
 - [Further reading](#further-reading)
-  - [The Lachin Corridor blockade](#the-lachin-corridor-blockade)
+  - [The Lachin Corridor blockade (ongoing)](#the-lachin-corridor-blockade-ongoing)
   - [Crimes, war crimes, and the pardoning of Azeri war criminals](#crimes-war-crimes-and-the-pardoning-of-azeri-war-criminals)
   - [Armenophobia and anti-Armenian propaganda in Azerbaijan](#armenophobia-and-anti-armenian-propaganda-in-azerbaijan)
   - [Erasure of Armenian cultural monuments in Nagorno Karabakh](#erasure-of-armenian-cultural-monuments-in-nagorno-karabakh)
-  - [Azerbaijani influence in Western media and politics](#azerbaijani-influence-in-western-media-and-politics)
+  - [Caviar diplomacy: Azerbaijani influence in Western media and politics](#caviar-diplomacy-azerbaijani-influence-in-western-media-and-politics)
 
 ## Overview: The Lachin Corridor blockade (ongoing)
 
-Since December 12, 2022, [Azerbaijan has been blockading the Lachin Corridor](https://www.forbes.com/sites/ewelinaochab/2023/08/08/lachin-corridor-blockade-starves-nagorno-karabakh/), the sole land link connecting Nagorno Karabakh to Armenia and the rest of the world. Nagorno Karabakh (known to Armenians as *Artsakh*) is a self-declared republic of 120,000 ethnic Armenians in the Caucasus. Initially launched under the false pretext of [environmental activism](https://time.com/6257467/armenia-azerbaijan-nagorno-karabakh-lachin-environment-icj/), the Lachin Corridor blockade has now evolved into a full-blown and coordinated effort to **ethnically cleanse Artsakh**.
+Since December 12, 2022, [Azerbaijan has been blockading the Lachin Corridor](https://www.forbes.com/sites/ewelinaochab/2023/08/08/lachin-corridor-blockade-starves-nagorno-karabakh/), the sole land link connecting Nagorno Karabakh to Armenia and the rest of the world. Nagorno Karabakh (known to Armenians as *Artsakh*) is a self-declared republic of 120,000 ethnic Armenians in the Caucasus. Initially launched under the false pretext of [environmental activism](https://time.com/6257467/armenia-azerbaijan-nagorno-karabakh-lachin-environment-icj/), the blockade has now evolved into a coordinated effort to **ethnically cleanse Artsakh**.
 
 Over the past several years, Azerbaijan has been testing the waters of what the international community considers acceptable. Now, it intends to finish [what the Ottoman Turks started in 1915](https://en.wikipedia.org/wiki/Armenian_genocide). This modern-day genocide underscores the failure of western diplomacy.
 
@@ -35,30 +38,32 @@ The [2020 trilateral ceasefire agreement](https://en.wikipedia.org/wiki/2020_Nag
 
 > The Lachin Corridor (5 km wide), which will provide a connection between Nagorno-Karabakh and Armenia while not passing through the territory of Shusha, shall remain under the control of the Russian Federation peacemaking forces. The Republic of Azerbaijan shall guarantee the security of persons, vehicles and cargo moving along the Lachin Corridor in both directions. 
 
-In violation of the ceasefire agreement, Azerbaijan has been blockading the Lachin Corridor since December 2022.
+In violation of this agreement, Azerbaijan has been blockading the Lachin Corridor since December 2022, preventing the safe passage of persons, vehicles, and cargo in both directions.
 
 On February 22, 2023, the International Court of Justice—the UN's highest court—[issued a legally binding ruling](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf) that orders Azerbaijan to end the blockade and allow free movement of civilians in both directions; Azerbaijan has ignored this order with impunity. So far, the blockade has been condemned internationally by [members of the U.S. Congress](https://www.congress.gov/bill/118th-congress/house-resolution/108?s=1&r=97), the UN, the European Union, Human Rights Watch, Amnesty International, the Red Cross, the Lemkin Institute for Genocide Prevention, and countless others.
 
-On August 7, 2023, former International Criminal Court prosecutor Luis Moreno Campo [wrote a report noting that these actions amount to genocide](https://luismorenoocampo.com/lmo_en/report-armenia/), comparable to war crimes committed by Ratko Mladić in Srebrenica during the Bosnian genocide. On August 18, the Lemkin Institute issued [an active genocide alert for Artsakh](https://www.lemkininstitute.com/active-genocide-alert-1/active-genocide-alert-azerbaijan----in-artsakh-).
+On August 7, 2023, former International Criminal Court prosecutor Luis Moreno Campo [wrote a report noting that these actions amount to genocide](https://luismorenoocampo.com/lmo_en/report-armenia/), comparable to war crimes committed in Srebrenica during the Bosnian genocide. On August 18, the Lemkin Institute issued [an active genocide alert for Artsakh](https://www.lemkininstitute.com/active-genocide-alert-1/active-genocide-alert-azerbaijan----in-artsakh-).
 
-### Death by starvation
+### Starvation as a weapon of genocide
 
-Early on in the blockade, Red Cross vehicles were granted intermittent passage to tend to critically ill patients. [As of July 2023](https://www.icrc.org/en/document/azerbaijan-armenia-sides-must-reach-humanitarian-consensus-to-ease-suffering), Azerbaijan is no longer permitting the Red Cross to enter Nagorno Karabakh.
+Early on in the blockade, Red Cross vehicles were granted intermittent passage to tend to critically ill patients. [As of July 2023](https://www.icrc.org/en/document/azerbaijan-armenia-sides-must-reach-humanitarian-consensus-to-ease-suffering), Azerbaijan is no longer permitting the Red Cross to enter Nagorno Karabakh:
 
 > Despite persistent efforts, the International Committee of the Red Cross (ICRC) is not currently able to bring humanitarian assistance to the civilian population through the Lachin corridor or through any other routes, including Aghdam.
 
-As a result of the blockade, food has been severely rationed in Nagorno Karabakh; miscarriages have nearly tripled, and medical complications have sharply risen. Baby formula, essential hygiene products, and basic food necessities are all in critically short supply. [A convoy of Armenian trucks carrying 360 tons of food](https://www.rferl.org/a/azerbaijan-blocks-armenian-aid-convoy-/32522087.html) is currently stranded outside the Lachin Corridor checkpoint. On August 15, 2023, K. Hovhannisyan, a 40-year-old resident of Nagorno Karabakh, [died of malnourishment and starvation](https://armenpress.am/eng/news/1117440.html); photos of his emaciated body circulated on social media. If the blockade is not lifted, nearly 30,000 children will share a similar fate: malnutrition and, eventually, death.
+As a result of the blockade, food has been severely rationed in Nagorno Karabakh; miscarriages have nearly tripled, and medical complications have sharply risen. Baby formula, essential hygiene products, and basic food necessities are all in critically short supply. [A convoy of Armenian trucks carrying 360 tons of food](https://www.rferl.org/a/azerbaijan-blocks-armenian-aid-convoy-/32522087.html) is currently stranded just outside the Lachin Corridor checkpoint; [a French convoy of humanitarian aid](https://en.armradio.am/2023/08/30/french-humanitarian-convoy-banned-from-entering-artsakh/) was similarly barred from entering. On August 15, 2023, photos circulated on social media showing the emaciated body of K. Hovhannisyan, a 40-year-old resident of Nagorno Karabakh who [died of malnourishment and starvation](https://armenpress.am/eng/news/1117440.html). If the blockade is not lifted, nearly 30,000 children will share a similar fate: malnutrition and, eventually, death.
 
-### Azerbaijani propaganda and denial of the genocide
+### Denial of the genocide
 
-[According to Azerbaijani state propaganda](https://www.politico.eu/article/nagorno-karabakh-armenia-azerbaijan-blockade-checkpoint/), there is no blockade and people are free to move in either direction; this stance was echoed by Azerbaijan's representative to the UN during [the August 16 emergency UNSC meeting](https://media.un.org/en/asset/k14/k1498sf9lh). At the same time, Azerbaijan has proposed transporting its own humanitarian aid via [an alternative land route through the town of Aghdam](https://jam-news.net/baku-offers-road-through-agdam-instead-of-lachin/). These conflicting narratives raise two important questions:
+[According to Azerbaijani state propaganda](https://www.politico.eu/article/nagorno-karabakh-armenia-azerbaijan-blockade-checkpoint/), there is no blockade and people are free to move in either direction. This stance was echoed by Azerbaijan's representative to the UN during [the August 16 emergency UNSC meeting](https://media.un.org/en/asset/k14/k1498sf9lh). At the same time, Azerbaijan has proposed transporting its own humanitarian aid via [an alternative land route through the town of Aghdam](https://jam-news.net/baku-offers-road-through-agdam-instead-of-lachin/).
+
+These conflicting narratives raise two important questions:
 
 1. First, if there is no blockade, what is the need for humanitarian aid or an alternative transportation route?
-2. Second, if Azerbaijan truly intends to make peace with the Armenians of Nagorno Karabakh, why would it impose this barbaric blockade in the first place and attempt to starve them into submission?
+2. Second, if Azerbaijan truly intends to make peace with the Armenians of Nagorno Karabakh, why did it impose this barbaric blockade in the first place and attempt to starve them into accepting its terms of negotiation?
 
-Azerbaijan has assured the citizens of Nagorno Karabakh that they will be "pardoned" if they disband their government and integrate into Azerbaijani society. It does this while [arbitrarily arresting Armenians and illegally abducting them from the ICRC's custody](https://en.armradio.am/2023/07/29/the-arrest-of-a-person-under-the-protection-of-international-humanitarian-law-and-the-icrc-is-a-war-crime-armenian-mfa/).
+[Azerbaijan has assured](https://oc-media.org/aliyev-ready-to-offer-amnesty-to-stepanakert-authorities-if-they-dissolve-government-and-parliament/) the citizens of Nagorno Karabakh that they will be granted amnesty (for what?) if they disband their government and integrate into Azerbaijani society. It does this while [arbitrarily arresting Armenians and illegally abducting them from the ICRC's custody](https://en.armradio.am/2023/07/29/the-arrest-of-a-person-under-the-protection-of-international-humanitarian-law-and-the-icrc-is-a-war-crime-armenian-mfa/) at the Lachin checkpoint.
 
-Much like convicted war criminal Ratko Mladić, President Aliyev has one demand: Lay down your arms in exchange for peace guarantees. When the Bosnians surrendered their weapons, the men were immediately separated and massacred; women and children were raped and deported. How can we expect Armenians to trust people who [regularly mutilate and behead them](https://azeriwarcrimes.org/atrocities/) and violate the fragile ceasefire? How can Armenians trust—much less coexist with—the very people who manufactured this humanitarian catastrophe in the first place?
+Much like convicted war criminal Ratko Mladić, President Aliyev has one demand: Lay down your arms in exchange for peace guarantees. When the Bosnians surrendered their weapons, the men were immediately separated and massacred; women and children were raped and deported. How can the Armenians of Artsakh trust the very people who [regularly mutilate and behead them](https://azeriwarcrimes.org/atrocities/), violate the fragile ceasefire, and [fire upon civilian farmers](https://asbarez.com/artsakh-farmers-again-targeted-by-azerbaijani-gunfire/)? How can they trust—much less coexist with—the very people who manufactured this humanitarian crisis in the first place?
 
 ## Silence is violence
 
@@ -66,27 +71,42 @@ The UN's [Genocide Convention](https://www.un.org/en/genocideprevention/genocide
 
 > Importantly, the Convention establishes on State Parties the obligation to take measures to prevent and to punish the crime of genocide, including by enacting relevant legislation and punishing perpetrators, “whether they are constitutionally responsible rulers, public officials or private individuals” (Article IV). That obligation, in addition to the prohibition not to commit genocide, have been considered as norms of international customary law and therefore, binding on all States, whether or not they have ratified the Genocide Convention.
 
-Despite this responsibility, several countries and groups of countries are morally complicit in this genocide, either through their inaction or their funding of Azerbaijan's petro-dictatorship.
+Despite this responsibility, several countries and politicians are morally complicit in this genocide—through inaction, corruption, and their funding of Azerbaijan's petro-dictatorship.
 
 ### The European Union
 
-On July 18, 2022, Ursula von der Leyen, President of the EU, [signed a gas deal with Azerbaijan](https://ec.europa.eu/commission/presscorner/detail/da/statement_22_4583) to increase imports of Azeri gas in order to compensate for shortages caused by the war in Ukraine. In November 2022, Azerbaijan [struck a deal to import gas from Russia](https://eurasianet.org/azerbaijans-russian-gas-deal-raises-uncomfortable-questions-for-europe), raising questions about where Europe would be purchasing its gas from. By increasing its economic dependence on Azerbaijan, the EU has given Azerbaijan all of the political leverage that it needs to tighten its chokehold on Nagorno Karabakh. While the EU did deploy a border-monitoring mission to Armenia in January 2023, this has done little to abate Azerbaijan's aggression—in June 2023, the Azerbaijani ambassador to the EU [openly threatened the monitoring mission on Twitter](https://euobserver.com/world/157246); on August 15, 2023, Azerbaijan delivered on its promise and [fired upon the EU delegates](https://www.politico.eu/article/azerbaijan-armenia-border-gunfire-european-union-observers-verin-shorzha-united-nations-nagorno-karabakh/).
+On July 18, 2022, Ursula von der Leyen, President of the EU, [signed a gas deal with Azerbaijan](https://ec.europa.eu/commission/presscorner/detail/da/statement_22_4583) to increase imports of Azeri gas in order to compensate for shortages caused by the war in Ukraine. Just a few months later, in November 2022, Azerbaijan [struck a deal to import gas from Russia](https://eurasianet.org/azerbaijans-russian-gas-deal-raises-uncomfortable-questions-for-europe), raising questions about where Europe would be purchasing its gas from.
+
+By increasing its economic dependence on Azerbaijan, the EU has given Azerbaijan the political leverage that it needs to tighten its chokehold on Nagorno Karabakh. While the EU did deploy a border-monitoring mission to Armenia in January 2023, this has done little to abate Azerbaijan's aggression—in June 2023, the Azerbaijani ambassador to the EU [openly threatened the monitoring mission on Twitter](https://euobserver.com/world/157246); on August 15, 2023, Azerbaijan [fired across the border in the direction of the EU delegates](https://www.politico.eu/article/azerbaijan-armenia-border-gunfire-european-union-observers-verin-shorzha-united-nations-nagorno-karabakh/).
 
 ### Russia
-This should not come as a surprise in light of Russia's unprovoked invasion of Ukraine. After the 2020 Nagorno Karabakh war, Russia [deployed a peacekeeping contingent of 2,000 soldiers](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement#Overview) to Nagorno Karabakh as part of the ceasefire agreement signed by Armenia and Azerbaijan. The peacekeepers have done nothing to maintain peace in the region; they are a symbol of Russia's impotence and dwindling regional influence.
+This should not come as a surprise in light of Russia's unprovoked invasion of Ukraine. After the 2020 Nagorno Karabakh war, Russia [deployed a peacekeeping contingent of 2,000 soldiers](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement#Overview) to Nagorno Karabakh as part of the ceasefire agreement signed by Armenia and Azerbaijan. The peacekeepers have done nothing to maintain peace in the region; they are a symbol of Russia's impotence and dwindling regional influence. Armenian Prime Minister Nikol Pashinyan has [repeatedly criticized CSTO member Russia](https://eurasianet.org/tensions-rise-between-armenia-russia) for its inaction in the blockade.
+
+### The United Kingdom
+From 2012 to 2014, [Azerbaijan used four British companies to launder $2.9 billion into Europe](https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme) to bribe politicians and journalists and discourage criticism of Aliyev's dictatorship. The legacy of this scandal lives on today in the West's reluctance to condemn or sanction Aliyev.
+
+### Germany
+[A VICE investigation](https://www.vice.com/en/article/qjp73b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev) implicated a number of German politicians in an Azerbaijani campaign to bribe European diplomats. Germany has [called for the opening of the Lachin Corridor](https://armenpress.am/eng/news/1119141.html), but appeals to reason are not enough to stop dictators from committing genocide.
+
+### Italy
+Italy spends more on Azerbaijani exports than any other European country; in 2022 alone, it [imported $17B worth of goods from Azerbaijan](https://tradingeconomics.com/azerbaijan/exports-by-country)—more than eight times as much as Turkey did. Azerbaijan is also a key energy and military partner for Italy—in 2023, Italy signed [a $170M deal to install gas turbines in Azerbaijan](https://www.nasdaq.com/articles/italys-ansaldo-energia-signs-$171-mln-gas-turbine-deal-in-azerbaijan) at an electric power plant; in June 2023, [Azerbaijan reached a deal to purchase military aircraft from Italy](https://eurasianet.org/azerbaijan-to-buy-italian-military-aircraft).
+
+Like their German and British counterparts, [some Italian politicians were bribed by Azerbaijan](https://www.occrp.org/en/daily/13628-italian-court-sentences-former-council-of-europe-mp-for-bribery) to paint the country in a positive light.
 
 ### Israel
-Israel has been [actively arming Azerbaijan with modern weaponry since 2016](https://armenianweekly.com/2023/03/08/israels-massive-supply-of-sophisticated-weapons-to-azerbaijan/). To Israel, Armenian lives are dispensible and a means to a geopolitical end: a greatly weakened Iran.
+Israel has been [actively arming Azerbaijan with modern weaponry since 2016](https://armenianweekly.com/2023/03/08/israels-massive-supply-of-sophisticated-weapons-to-azerbaijan/) in an attempt to weaken Iran. Azerbaijan's main cargo arline, Silk Way Airlines, [makes regular trips to the Ovda military base in Tel Aviv](https://hetq.am/en/article/159676), where it acquires weapons and other supplies—weapons like the LORA ballistic missiles and kamikaze drones that [Azerbaijan used against Armenians](https://www.csis.org/analysis/air-and-missile-war-nagorno-karabakh-lessons-future-strike-and-defense) during the Second Nagorno-Karabakh War.
 
 ### Turkey
-[The official state policy of Turkey](https://www.mfa.gov.tr/the-armenian-allegation-of-genocide-the-issue-and-the-facts.en.mfa) categorically denies that the first Armenian genocide took place. During the December 2020 victory day parade in Baku, President Erdogan [openly praised the perpetrators of the Armenian genocide](https://44days.info/speech-by-president-recep-tayyip-erdogan/) in his speech:
+Denial of the first Armenian genocide is [the official state policy of Turkey](https://www.mfa.gov.tr/the-armenian-allegation-of-genocide-the-issue-and-the-facts.en.mfa). During the Second Nagorno-Karabakh War between Armenia and Azerbaijan in 2020, Turkey actively armed Azerbaijan in pursuit of [its own geopolitical goals](https://nationalinterest.org/feature/what-does-turkey%E2%80%99s-pan-turkic-eurasian-pivot-hold-pakistan-201381) of creating a greater Turkic World. In his December 2020 speech at the victory day parade in Baku, President Erdogan appealed to this surging Turkish nationalism and [openly praised the perpetrators of the Armenian genocide](https://44days.info/speech-by-president-recep-tayyip-erdogan/):
 
 > Today the soul of Azerbaijan’s national poet, great fighter Ahmad Javad will rejoice. Today the soul of Nuri Pasha, Enver Pasha, brave soldiers of the Caucasian Islamic Army will rejoice. Today the soul of one of the first Azerbaijani martyrs, Mubariz Ibrahimov, will rejoice. Today is a day of victory and pride for all of us, for the entire Turkic world.
 
-During [the UNSC emergency meeting on August 16, 2023](https://media.un.org/en/asset/k14/k1498sf9lh) concerning the Lachin Corridor, Turkey parroted Azerbaijan's claim that there is no blockade.
+During [the UNSC emergency meeting on August 16, 2023](https://media.un.org/en/asset/k14/k1498sf9lh) concerning the Lachin Corridor, Turkey's representative parroted Azerbaijan's claim that there is no blockade.
 
 ### The United States
 In 1992, after the first Nagorno Karabakh war, Congress passed the Freedom Support Act; [Section 907](https://en.wikipedia.org/wiki/Section_907) of this act bans direct U.S. aid to Azerbaijan. In 2001, the Senate amended the act to allow the President to waive Section 907; every single president has exercised this right since then. Since 2001, the U.S. has provided [over $470 million in military aid to Azerbaijan](https://securityassistance.org/security-sector-assistance/).
+
+Since the start of the blockade, President Biden has not issued any statements concerning this crisis or condemned President Aliyev.
 
 ## What you can do
 
@@ -98,19 +118,19 @@ If you live in the United States, you have a **civic and moral obligation to mak
 
 Call your representatives and urge them to pressure the Biden administration to stop Azerbaijan from ethnically cleansing 120,000 Armenians in Nagorno Karabakh. Call on the U.S. to sanction Azerbaijan like it did Russia. Call on the U.S. to [stop waiving Section 907 of the Freedom Support Act and funding Azerbaijani aggression](https://www.federalregister.gov/documents/2022/07/05/2022-14190/extension-of-waiver-of-section-907-of-the-freedom-support-act-with-respect-to-assistance-to-the).
 
-Even if you do not reside in the U.S., **your voice can still make an impact**. Join the [Turkish writers, politicians, and human rights defenders](https://www.agos.com.tr/en/article/29016/call-by-citizens-of-turkey-to-international-community-to-end-the-blockade-of-karabagh) who have publicly voiced their opposition to the blockade. Show solidarity with the Armenians of Nagorno Karabakh.
+Even if you do not reside in the U.S., **your voice can still make an impact**. Join the [Turkish writers, politicians, and human rights defenders](https://www.agos.com.tr/en/article/29016/call-by-citizens-of-turkey-to-international-community-to-end-the-blockade-of-karabagh) who have publicly voiced their opposition to the blockade. Show solidarity with the Armenians of Artsakh.
 
 ## Further reading
 
 The links below provide important context on this decades-long conflict between Armenia and Azerbaijan.
 
-### The Lachin Corridor blockade
+### The Lachin Corridor blockade (ongoing)
 - [February 22, 2023 ICJ order](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf) | [Archive](https://web.archive.org/web/20230314045608/https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf)
 - [Sieged and Starved: 120,000 Armenians](https://providencemag.com/2023/05/sieged-and-starved-120000-armenians/) | [Archive](https://web.archive.org/web/20230000000000*/https://providencemag.com/2023/05/sieged-and-starved-120000-armenians/)
 - [The Post's View: Azerbaijan should reopen the Lachin corridor — and avert another war](https://www.washingtonpost.com/opinions/2023/08/16/azerbaijan-nagorno-karabakh-blockade-armenia/) | [Archive](https://web.archive.org/web/20230816223437/https://www.washingtonpost.com/opinions/2023/08/16/azerbaijan-nagorno-karabakh-blockade-armenia/)
 - [Armenians face genocide in Azerbaijan, former International Criminal Court prosecutor warns](https://apnews.com/article/armenia-azerbaijan-nagorno-karabakh-blockade-2a9fb9852534ab38656a99b435f0ba86) | [Archive](https://web.archive.org/web/20230812030025/https://apnews.com/article/armenia-azerbaijan-nagorno-karabakh-blockade-2a9fb9852534ab38656a99b435f0ba86)
 - [The West’s Double Standards in the Armenian Crisis](https://jacobin.com/2023/08/armenian-crisis-western-strategy-double-standards-energy-security) | [Archive](https://web.archive.org/web/20230810231409/https://jacobin.com/2023/08/armenian-crisis-western-strategy-double-standards-energy-security/)
-- [Nagorno-Karabakh crisis puts the spotlight on EU ties with Azerbaijan ](https://www.politico.eu/article/crisis-in-karabakh-baku-eu-armenia-azerbaijan/) | [Archive](https://web.archive.org/web/20230810232330/https://www.politico.eu/article/crisis-in-karabakh-baku-eu-armenia-azerbaijan/)
+- [Nagorno-Karabakh crisis puts the spotlight on EU ties with Azerbaijan](https://www.politico.eu/article/crisis-in-karabakh-baku-eu-armenia-azerbaijan/) | [Archive](https://web.archive.org/web/20230810232330/https://www.politico.eu/article/crisis-in-karabakh-baku-eu-armenia-azerbaijan/)
 
 ### Crimes, war crimes, and the pardoning of Azeri war criminals
 - [Willful killing, mutilation, torture, and inhuman treatment of Armenians by Azerbaijani forces](https://azeriwarcrimes.org/atrocities/) | [Archive](https://web.archive.org/web/20230530133232/https://azeriwarcrimes.org/atrocities/)
@@ -141,7 +161,7 @@ The links below provide important context on this decades-long conflict between 
 - [Azerbaijan Desecrates Armenian Cultural and Religious Heritage](https://providencemag.com/2022/12/azerbaijan-desecrates-armenian-cultural-and-religious-heritage/) | [Archive](https://web.archive.org/web/20230604232614/https://news.cornell.edu/stories/2022/09/report-shows-near-total-erasure-armenian-heritage-sites)
 - [Is the Destruction of Armenian Heritage Not Important Enough for the Getty? ](https://hyperallergic.com/804374/is-the-destruction-of-armenian-heritage-not-important-enough-for-the-getty/) | [Archive](https://web.archive.org/web/20230627023942/https://hyperallergic.com/804374/is-the-destruction-of-armenian-heritage-not-important-enough-for-the-getty/)
 
-### Azerbaijani influence in Western media and politics 
+### Caviar diplomacy: Azerbaijani influence in Western media and politics 
 - [UK at centre of secret $3bn Azerbaijani money laundering and lobbying scheme](https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme) | [Archive](https://web.archive.org/web/20230607235216/https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme)
 - [How an Authoritarian Regime Infiltrated a Government in the Heart of Europe](https://www.vice.com/en/article/qjp74b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev) | [Archive](https://web.archive.org/web/20230512103544/https://www.vice.com/en/article/qjp74b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev)
 - [What’s Behind All the Pro-Azerbaijan Articles?](https://armenianweekly.com/2020/10/24/whats-behind-all-the-pro-azerbaijan-articles/) | [Archive](https://web.archive.org/web/20230201001152/https://armenianweekly.com/2020/10/24/whats-behind-all-the-pro-azerbaijan-articles/)
