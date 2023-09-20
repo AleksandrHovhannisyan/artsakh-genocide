@@ -6,11 +6,11 @@ You may freely copy any part of this document to spread awareness. If you are al
 <!-- omit in toc -->
 ## Table of Contents
 - [The Artsakh Genocide: Key Events](#the-artsakh-genocide-key-events)
-  - [Lachin Corridor Blockade](#lachin-corridor-blockade)
+  - [The Lachin Corridor blockade](#the-lachin-corridor-blockade)
   - [A binding ICJ order, international condemnation, and genocide alerts](#a-binding-icj-order-international-condemnation-and-genocide-alerts)
   - [Starvation as a weapon of genocide](#starvation-as-a-weapon-of-genocide)
   - [Azerbaijani propaganda and denial of the genocide](#azerbaijani-propaganda-and-denial-of-the-genocide)
-  - [Assault on Artsakh](#assault-on-artsakh)
+  - [Military assault on Artsakh](#military-assault-on-artsakh)
 - [Silence is violence](#silence-is-violence)
   - [The European Union](#the-european-union)
   - [Russia](#russia)
@@ -22,7 +22,7 @@ You may freely copy any part of this document to spread awareness. If you are al
   - [The United States](#the-united-states)
 - [What you can do](#what-you-can-do)
 - [Further reading](#further-reading)
-  - [Artsakh genocide (ongoing)](#artsakh-genocide-ongoing)
+  - [Artsakh blockade and genocide (ongoing)](#artsakh-blockade-and-genocide-ongoing)
   - [War crimes and the pardoning of Azeri war criminals](#war-crimes-and-the-pardoning-of-azeri-war-criminals)
   - [Armenophobia and anti-Armenian propaganda in Azerbaijan](#armenophobia-and-anti-armenian-propaganda-in-azerbaijan)
   - [Erasure of Armenian cultural monuments in Artsakh](#erasure-of-armenian-cultural-monuments-in-artsakh)
@@ -30,11 +30,17 @@ You may freely copy any part of this document to spread awareness. If you are al
 
 ## The Artsakh Genocide: Key Events
 
-Over the past several years, Azerbaijan has been testing the waters of what the international community considers acceptable. Now, it intends to finish [what the Ottoman Turks started in 1915](https://en.wikipedia.org/wiki/Armenian_genocide). This modern-day genocide underscores the failure of western diplomacy.
+### The Lachin Corridor blockade
 
-### Lachin Corridor Blockade
+Nagorno-Karabakh (known to Armenians as *Artsakh* or, formally, the Republic of Artsakh) is a self-declared republic of 120,000 ethnic Armenians in the Caucasus. It has been inhabited by a majority Armenian population [since 180 BC](https://en.wikipedia.org/wiki/Nagorno-Karabakh#Antiquity_and_Early_Middle_Ages). 
 
-Since December 12, 2022, [Azerbaijan has been blockading the Lachin Corridor](https://www.forbes.com/sites/ewelinaochab/2023/08/08/lachin-corridor-blockade-starves-nagorno-karabakh/), the sole land link connecting Artsakh to Armenia and the rest of the world. Nagorno Karabakh (known to Armenians as *Artsakh*) is a self-declared republic of 120,000 ethnic Armenians in the Caucasus. Initially launched under the false pretext of [environmental activism](https://time.com/6257467/armenia-azerbaijan-nagorno-karabakh-lachin-environment-icj/), the blockade has now evolved into a coordinated effort to **ethnically cleanse Artsakh**.
+![A world map showing Armenia and bordering country Azerbaijan, with the self-declared Republic of Nagorno-Karabakh outlined in Azerbaijan.](./images/artsakh-map.png)
+
+On December 12, 2022, [Azerbaijan blockaded the Lachin Corridor](https://www.forbes.com/sites/ewelinaochab/2023/08/08/lachin-corridor-blockade-starves-nagorno-karabakh/), the sole land link connecting Artsakh to Armenia and the rest of the world, under the false pretext of [environmental activism](https://time.com/6257467/armenia-azerbaijan-nagorno-karabakh-lachin-environment-icj/) and installed a border checkpoint with military personnel. Since then, the blockade has evolved into a coordinated effort to **ethnically cleanse Artsakh** of its Armenian population through starvation and the use of military force.
+
+![The Lachin Corridor checkpoint, with an Azerbaijani flag and military personnel.](./images/lachin-checkpoint.jpg)
+
+Since the Second Karabakh War of 2020, Azerbaijan has been testing the waters of what the international community considers acceptable. Now, it intends to finish [what the Ottoman Turks started in 1915](https://en.wikipedia.org/wiki/Armenian_genocide). This modern-day genocide underscores the failure of western diplomacy.
 
 ### A binding ICJ order, international condemnation, and genocide alerts
 
@@ -42,11 +48,11 @@ The [2020 trilateral ceasefire agreement](https://en.wikipedia.org/wiki/2020_Nag
 
 > The Lachin Corridor (5 km wide), which will provide a connection between Nagorno-Karabakh and Armenia while not passing through the territory of Shusha, shall remain under the control of the Russian Federation peacemaking forces. The Republic of Azerbaijan shall guarantee the security of persons, vehicles and cargo moving along the Lachin Corridor in both directions. 
 
-In violation of this agreement, Azerbaijan has been blockading the Lachin Corridor and preventing the safe passage of persons, vehicles, and cargo in both directions.
+In violation of this agreement, Azerbaijan blockaded the Lachin Corridor and prevented the safe passage of persons, vehicles, and cargo in both directions.
 
-On February 22, 2023, the International Court of Justice—the UN's highest court—[issued a legally binding ruling](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf) that orders Azerbaijan to end the blockade and allow free movement of civilians in both directions; Azerbaijan has ignored this order with impunity. So far, the blockade has been condemned internationally by [members of the U.S. Congress](https://www.congress.gov/bill/118th-congress/house-resolution/108?s=1&r=97), the UN, the European Union, Human Rights Watch, Amnesty International, the Red Cross, the Lemkin Institute for Genocide Prevention, and countless others.
+On February 22, 2023, the International Court of Justice—the UN's highest court—[issued a legally binding ruling](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf) that orders Azerbaijan to end the blockade and allow free movement of civilians in both directions; Azerbaijan ignored this order with impunity. The blockade was condemned internationally by [members of the U.S. Congress](https://www.congress.gov/bill/118th-congress/house-resolution/108?s=1&r=97), the UN, the European Union, Human Rights Watch, Amnesty International, the Red Cross, the Lemkin Institute for Genocide Prevention, and countless others.
 
-On August 7, 2023, former International Criminal Court prosecutor Luis Moreno Ocampo [wrote a report noting that these actions amount to genocide](https://luismorenoocampo.com/lmo_en/report-armenia/), comparable to war crimes committed in Srebrenica during the Bosnian genocide. On August 18, the Lemkin Institute issued [an active genocide alert for Artsakh](https://www.lemkininstitute.com/active-genocide-alert-1/active-genocide-alert-azerbaijan----in-artsakh-).
+On August 7, 2023, former International Criminal Court prosecutor Luis Moreno Ocampo [published a report noting that these actions amount to genocide](https://luismorenoocampo.com/lmo_en/report-armenia/), comparable to war crimes committed in Srebrenica during the Bosnian genocide. On August 18, the Lemkin Institute issued [an active genocide alert for Artsakh](https://www.lemkininstitute.com/active-genocide-alert-1/active-genocide-alert-azerbaijan----in-artsakh-). And on August 23, 2023, former U.N. Special Advisor on the Prevention of Genocide Juan Méndez published [a preliminary opinion report](https://un.mfa.am/file_manager/un_mission/Preliminary%20Opinion%20-%2023.08.2023.pdf) urging the international community to act before atrocities take place.
 
 ### Starvation as a weapon of genocide
 
@@ -54,7 +60,15 @@ Early on in the blockade, Red Cross vehicles were granted intermittent passage t
 
 > Despite persistent efforts, the International Committee of the Red Cross (ICRC) is not currently able to bring humanitarian assistance to the civilian population through the Lachin corridor or through any other routes, including Aghdam.
 
-As a result of the blockade, food has been severely rationed in Artsakh; miscarriages have nearly tripled, and medical complications have sharply risen. Baby formula, essential hygiene products, and basic food necessities are all in critically short supply. [A convoy of Armenian trucks carrying 360 tons of food](https://www.rferl.org/a/azerbaijan-blocks-armenian-aid-convoy-/32522087.html) is currently stranded just outside the Lachin Corridor checkpoint; [a French convoy of humanitarian aid](https://en.armradio.am/2023/08/30/french-humanitarian-convoy-banned-from-entering-artsakh/) was similarly barred from entering. On August 15, 2023, photos circulated on social media showing the emaciated body of K. Hovhannisyan, a 40-year-old resident of Artsakh who [died of malnourishment and starvation](https://armenpress.am/eng/news/1117440.html). If the blockade is not lifted, nearly 30,000 children will share a similar fate: malnutrition and, eventually, death.
+As a result of the blockade, food has been severely rationed in Artsakh; miscarriages have nearly tripled, and medical complications have sharply risen. Baby formula, essential hygiene products, and basic food necessities are all in critically short supply. [A convoy of Armenian trucks carrying 360 tons of food](https://www.rferl.org/a/azerbaijan-blocks-armenian-aid-convoy-/32522087.html) is currently stranded just outside the Lachin Corridor checkpoint; [a French convoy of humanitarian aid](https://en.armradio.am/2023/08/30/french-humanitarian-convoy-banned-from-entering-artsakh/) was similarly barred from entering. On August 15, 2023, photos circulated on social media showing the emaciated body of K. Hovhannisyan, a 40-year-old resident of Artsakh who [died of malnourishment and starvation](https://armenpress.am/eng/news/1117440.html).
+
+
+<details>
+  <summary><strong>Warning</strong>: graphic image</summary>
+  <img src="./images/hovhannisyan.jpg" alt="The malnourished cadaver of K. Hovhannisyan, a 40-year-old Armenian who died of starvation." />
+</details>
+
+If the blockade is not lifted, nearly 30,000 children will share a similar fate: malnutrition and, eventually, death.
 
 On September 18, 2023, after international pressure mounted, the Red Cross was [finally able to resume delivering supplies to Artsakh via the Lachin Corridor](https://www.reuters.com/world/asia-pacific/red-cross-sends-humanitarian-convoys-karabakh-first-reopening-since-december-2023-09-18/).
 
@@ -71,11 +85,26 @@ These conflicting narratives raise two important questions:
 
 President Aliyev has one demand for the people of Artsakh: Lay down your arms in exchange for peace guarantees. During the Bosnian Genocide, Ratko Mladic offered the same terms to the Bosnians. When the Bosnians surrendered their weapons, the men were immediately rounded up and massacred; women and children were raped and deported. How can the Armenians of Artsakh trust the very people who [regularly mutilate and behead them](https://azeriwarcrimes.org/atrocities/), violate the fragile ceasefire, and [fire upon civilian farmers](https://asbarez.com/artsakh-farmers-again-targeted-by-azerbaijani-gunfire/)? How can they trust—much less coexist with—the very people who manufactured this humanitarian crisis in the first place?
 
-### Assault on Artsakh
+### Military assault on Artsakh
 
-In early September, 2023, Azerbaijan [began massing troops on the border of Artsakh and Armenia](https://www.telegraph.co.uk/world-news/2023/09/15/azerbaijani-troops-russian-style-symbols-armenia-border/). [Videos circulating on social media](https://www.instagram.com/p/Cw0pkO-MuM-/) showed Azerbaijani military vehicles with special markings carrying a large number of troops towards the Armenian border.
+In early September 2023, Azerbaijan [began massing troops on the border of Artsakh and Armenia](https://www.telegraph.co.uk/world-news/2023/09/15/azerbaijani-troops-russian-style-symbols-armenia-border/). [Videos circulating on social media](https://www.instagram.com/p/Cw0pkO-MuM-/) showed Azerbaijani military vehicles with special markings carrying a large number of troops towards the Armenian border.
 
-On September 19, 2023, [Azerbaijan launched a large-scale assault on Artsakh with drones and mortars](https://www.aljazeera.com/news/2023/9/19/azerbaijan-forces-attack-nagorno-karabakh-as-threat-of-new-war-looms), damaging civilian structures, injuring hundreds, killing civilians, and displacing thousands of ethnic Armenians. Much like how President Putin justified his invasion of Ukraine in 2022 as a "[special military operation](https://en.wikipedia.org/wiki/On_conducting_a_special_military_operation)," President Aliyev also claimed that Azerbaijan was conducting an "anti-terrorist military operation." He has vowed to carry out this operation to its end.
+![A convoy of Azerbaijani military vehicles—all marked with an emblem resembling an upside-down capital letter A—is seen transporting soldiers to the border.](./images/military-convoy.jpg)
+
+On September 19, 2023, [Azerbaijan launched a large-scale assault on Artsakh with drones and mortars](https://www.economist.com/europe/2023/09/19/azerbaijan-wants-to-reintegrate-nagorno-karabakh-through-force), damaging civilian structures, injuring hundreds, killing civilians, and displacing thousands of ethnic Armenians.
+
+![Civilian buildings and vehicles damaged by Azerbaijani strikes in Artsakh.](./images/damage.jpg)
+> Image credit: Associated Press
+
+Much like how President Putin justified his invasion of Ukraine in 2022 as a "[special military operation](https://en.wikipedia.org/wiki/On_conducting_a_special_military_operation)," President Aliyev also claimed that Azerbaijan was conducting an "anti-terrorist military operation." He has vowed to carry out this operation to its end.
+
+On September 20, 2023, to prevent the further loss of life, [the government of Artsakh surrendered](https://www.nytimes.com/2023/09/20/world/europe/azerbaijan-armenia-cease-fire.html). Over 40,000 displaced Armenian refugees fled to Stepanakert Airport.
+
+![Armenian refugees crowded on the runways of Stepanakert Airport](./images/stepanakert-airport.jpg)
+
+[Artsakh / Nagorno-Karabakh Human Rights Ombudsman](https://twitter.com/ArtsakhOmbuds/status/1704551860999242216):
+
+> As of 21:30, September 20, according to the information collected by the Office of the Human Rights Defender, there are at least 200 deaths and more than 400 wounded persons. The number of injured people among the civilian population exceeds 40 persons, among whom 13 are children. There are 10 confirmed civilian deaths at the moment, among whom 5 are children. The fact-finding activities by our Office, aimed at established the fate of missing people, continue.
 
 ## Silence is violence
 
@@ -138,7 +167,8 @@ Even if you do not reside in the U.S., **your voice can still make an impact**. 
 
 The links below provide important context on this decades-long conflict between Armenia and Azerbaijan.
 
-### Artsakh genocide (ongoing)
+### Artsakh blockade and genocide (ongoing)
+- [Blockade of the Republic of Artsakh (2022–present)](https://en.wikipedia.org/wiki/Blockade_of_the_Republic_of_Artsakh_(2022%E2%80%93present))
 - [February 22, 2023 ICJ order](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf) | [Archive](https://web.archive.org/web/20230314045608/https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf)
 - [Sieged and Starved: 120,000 Armenians](https://providencemag.com/2023/05/sieged-and-starved-120000-armenians/) | [Archive](https://web.archive.org/web/20230000000000*/https://providencemag.com/2023/05/sieged-and-starved-120000-armenians/)
 - [The Post's View: Azerbaijan should reopen the Lachin corridor — and avert another war](https://www.washingtonpost.com/opinions/2023/08/16/azerbaijan-nagorno-karabakh-blockade-armenia/) | [Archive](https://web.archive.org/web/20230816223437/https://www.washingtonpost.com/opinions/2023/08/16/azerbaijan-nagorno-karabakh-blockade-armenia/)
