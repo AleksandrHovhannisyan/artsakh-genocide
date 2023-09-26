@@ -38,9 +38,9 @@ You may freely copy any part of this document to spread awareness. If you are al
 
 ### Historical Background
 
-Nagorno-Karabakh (known to Armenians as *Artsakh* or, formally, [the Republic of Artsakh](https://en.wikipedia.org/wiki/Republic_of_Artsakh)) is a self-declared republic of 120,000 ethnic Armenians in the Caucasus. It has been inhabited by a majority Armenian population [since 180 BC](https://en.wikipedia.org/wiki/Nagorno-Karabakh#Antiquity_and_Early_Middle_Ages) and is home to many ancient Armenian cultural landmarks, including churches and [thousands of Armenian cross-stones](https://en.wikipedia.org/wiki/Khachkar).
+Nagorno-Karabakh (known to Armenians as *Artsakh* or, formally, [the Republic of Artsakh](https://en.wikipedia.org/wiki/Republic_of_Artsakh)) is a self-declared republic of 120,000 ethnic Armenians in the Caucasus. It has been inhabited by a majority Armenian population [since 180 BC](https://en.wikipedia.org/wiki/Nagorno-Karabakh#Antiquity_and_Early_Middle_Ages) and is home to [many ancient Armenian cultural landmarks](https://en.wikipedia.org/wiki/Culture_of_Artsakh), including monasteries, churches, schools, and [thousands of khachkars (Armenian cross-stones)](https://en.wikipedia.org/wiki/Khachkar).
 
-![A world map showing Armenia and bordering country Azerbaijan, with the self-declared Republic of Nagorno-Karabakh outlined in Azerbaijan.](./images/artsakh-map.png)
+![A world map showing Armenia and bordering country Azerbaijan, with the self-declared Republic of Nagorno-Karabakh in Azerbaijan.](./images/artsakh-map.png)
 
 In 1991, Artsakh declared its independence from the Soviet Union. Since then, it has been the victim of three armed conflicts initiated by Azerbaijan:
 
@@ -54,13 +54,13 @@ On December 12, 2022, [Azerbaijan blockaded the Lachin Corridor](https://www.for
 
 ![The Lachin Corridor checkpoint, with an Azerbaijani flag and military personnel.](./images/lachin-checkpoint.jpg)
 
-### A binding ICJ order, international condemnation, and genocide alerts
-
 The [2020 trilateral ceasefire agreement](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement) signed by Armenia and Azerbaijan is clear about the status of the Lachin Corridor:
 
 > The Lachin Corridor (5 km wide), which will provide a connection between Nagorno-Karabakh and Armenia while not passing through the territory of Shusha, shall remain under the control of the Russian Federation peacemaking forces. The Republic of Azerbaijan shall guarantee the security of persons, vehicles and cargo moving along the Lachin Corridor in both directions. 
 
 In violation of this agreement, Azerbaijan blockaded the Lachin Corridor in December 2022 and prevented the safe passage of persons, vehicles, and cargo in both directions.
+
+### A binding ICJ order, international condemnation, and genocide alerts
 
 On February 22, 2023, the International Court of Justice—the UN's highest court—[issued a legally binding ruling](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf) ordering Azerbaijan to end the blockade and allow free movement of civilians in both directions; Azerbaijan ignored this order with impunity. The blockade has been condemned internationally by [members of the U.S. Congress](https://www.congress.gov/bill/118th-congress/house-resolution/108?s=1&r=97), the UN, the European Union, Human Rights Watch, Amnesty International, the Red Cross, the Lemkin Institute for Genocide Prevention, and countless others.
 
@@ -129,6 +129,11 @@ On September 20, 2023, to prevent the further loss of life, [the government of A
 > As of 21:30, September 20, according to the information collected by the Office of the Human Rights Defender, there are at least 200 deaths and more than 400 wounded persons. The number of injured people among the civilian population exceeds 40 persons, among whom 13 are children. There are 10 confirmed civilian deaths at the moment, among whom 5 are children. The fact-finding activities by our Office, aimed at established the fate of missing people, continue.
 
 On September 23, 2023, the Red Cross [delivered 70 tons of humanitarian supplies to affected areas in Artsakh](https://twitter.com/icrc/status/1705633759519773034) and evacuated 17 wounded people.
+
+By September 25, 2023, [thousands of Armenians had already begun their exodus to Armenia](https://www.bbc.com/news/world-europe-66905581), with many more still unable to evacuate from Artsakh.
+
+![A roadway packed with civilian vehicles for as far as the eye can see.](./images/exodus.jpg)
+> [Image credit: Neil Hauer on Twitter](https://twitter.com/NeilPHauer/status/1706324226242756670/photo/1)
 
 ## Complicity in, and failure to prevent, the genocide
 
