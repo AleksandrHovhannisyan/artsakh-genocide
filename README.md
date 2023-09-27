@@ -22,6 +22,7 @@ You may freely copy any part of this document to spread awareness. If you are al
   - [Germany](#germany)
   - [Italy](#italy)
   - [Israel](#israel)
+  - [Pakistan](#pakistan)
   - [Turkey](#turkey)
   - [The United States](#the-united-states)
 - [What you can do](#what-you-can-do)
@@ -83,6 +84,9 @@ As a result of the blockade, food was severely rationed in Artsakh; miscarriages
 
 On July 26, [a convoy of Armenian trucks carrying 360 tons of food](https://www.rferl.org/a/azerbaijan-blocks-armenian-aid-convoy-/32522087.html) became stranded just outside the Lachin Corridor checkpoint after Azerbaijani officials denied it entry.
 
+![A convoy of eight Armenian trucks carrying humanitarian aid is seen stalled on a roadway just before the Lachin Corridor checkpoint.](./images/humanitarian-convoy.jpg)
+> Image source: [azatutyun.am (RFE/RL)](https://www.rferl.org/a/azerbaijan-blocks-armenian-aid-convoy-/32522087.html)
+
 On August 15, 2023, photos circulated on social media showing the emaciated body of K. Hovhannisyan, a 40-year-old resident of Artsakh who [died of malnourishment and starvation](https://armenpress.am/eng/news/1117440.html).
 
 <details>
@@ -118,22 +122,32 @@ On September 19, 2023, [Azerbaijan launched a large-scale assault on Artsakh wit
 
 Much like how President Putin justified his invasion of Ukraine in 2022 as a "[special military operation](https://en.wikipedia.org/wiki/On_conducting_a_special_military_operation)," President Aliyev also claimed that Azerbaijan was conducting an "anti-terrorist military operation." He has vowed to carry out this operation to its end.
 
-### Artsakh refugee crisis
+On September 20, 2023, to prevent the further loss of life, [the government of Artsakh surrendered](https://www.nytimes.com/2023/09/20/world/europe/azerbaijan-armenia-cease-fire.html).
 
-On September 20, 2023, to prevent the further loss of life, [the government of Artsakh surrendered](https://www.nytimes.com/2023/09/20/world/europe/azerbaijan-armenia-cease-fire.html). Over 40,000 displaced Armenian refugees fled to Stepanakert Airport, with thousands more left stranded and encircled by Azeri forces on the outskirts of Artsakh. Many Armenians have reportedly lost contact with their family members.
-
-![Armenian refugees crowded on the runways of Stepanakert Airport](./images/stepanakert-airport.jpg)
 
 [Artsakh / Nagorno-Karabakh Human Rights Ombudsman](https://twitter.com/ArtsakhOmbuds/status/1704551860999242216):
 
 > As of 21:30, September 20, according to the information collected by the Office of the Human Rights Defender, there are at least 200 deaths and more than 400 wounded persons. The number of injured people among the civilian population exceeds 40 persons, among whom 13 are children. There are 10 confirmed civilian deaths at the moment, among whom 5 are children. The fact-finding activities by our Office, aimed at established the fate of missing people, continue.
 
-On September 23, 2023, the Red Cross [delivered 70 tons of humanitarian supplies to affected areas in Artsakh](https://twitter.com/icrc/status/1705633759519773034) and evacuated 17 wounded people.
+### Artsakh refugee crisis
 
-By September 25, 2023, [thousands of Armenians had already begun their exodus to Armenia](https://www.bbc.com/news/world-europe-66905581), with many more still unable to evacuate from Artsakh.
+In the aftermath of Azerbaijan's military assault, over 40,000 displaced Armenian refugees fled to Stepanakert Airport, with tens of thousands more reportedly stranded and encircled by Azeri forces on the outskirts of Artsakh. Many Armenians had lost contact with their family members.
+
+![Armenian refugees crowded on the runways of Stepanakert Airport](./images/stepanakert-airport.jpg)
+
+On September 23, the Red Cross [delivered 70 tons of humanitarian supplies to affected areas in Artsakh](https://twitter.com/icrc/status/1705633759519773034) and evacuated 17 wounded people.
+
+By September 25, [thousands of Armenians had already begun their exodus to Armenia](https://www.bbc.com/news/world-europe-66905581), with many more still unable to evacuate from Artsakh.
+
+On September 26, [USAID Administrator Samantha Power visited towns in Armenia near the Lachin Corridor](https://www.usaid.gov/news-information/press-releases/sep-27-2023-administrator-samantha-power-continues-her-trip-armenia-visiting-towns-near-lachin-corridor) and pledged $11.5m in humanitarian aid from the United States to help with the refugee crisis.
+
+By the morning of September 27, [over 40,000 Armenian refugees—more than a third of Artsakh's population—had already crossed the border into Armenia](https://twitter.com/robananyan/status/1706955495028748798).
 
 ![A roadway packed with civilian vehicles for as far as the eye can see.](./images/exodus.jpg)
 > [Image credit: Neil Hauer on Twitter](https://twitter.com/NeilPHauer/status/1706324226242756670/photo/1)
+
+![An aerial view of the Stepanakert-Goris roadway connecting Artsakh to Armenia via the Lachin Corridor. A lone roadway winds between mountainous landscapes; the entirety of the road is dotted with rows of vehicles.](./images/aerial.jpg)
+> [Image credit: Maxar Technologies/Reuters](https://twitter.com/ianbremmer/status/1707128224197579112/photo/1)
 
 ## Complicity in, and failure to prevent, the genocide
 
@@ -147,7 +161,10 @@ Despite this responsibility, several countries and politicians are morally compl
 
 On July 18, 2022, Ursula von der Leyen, President of the EU, [signed a gas deal with Azerbaijan](https://ec.europa.eu/commission/presscorner/detail/da/statement_22_4583) to increase imports of Azeri gas in order to compensate for shortages caused by the war in Ukraine. Just a few months later, in November 2022, Azerbaijan [struck a deal to import gas from Russia](https://eurasianet.org/azerbaijans-russian-gas-deal-raises-uncomfortable-questions-for-europe), raising questions about where Europe would be purchasing its gas from.
 
-By increasing its economic dependence on Azerbaijan, the EU has given Azerbaijan the political leverage that it needs to tighten its chokehold on Artsakh. While the EU did deploy a border-monitoring mission to Armenia in January 2023, this has done little to abate Azerbaijan's aggression—in June 2023, the Azerbaijani ambassador to the EU [openly threatened the monitoring mission on Twitter](https://euobserver.com/world/157246); on August 15, 2023, Azerbaijan [fired across the border in the direction of the EU delegates](https://www.politico.eu/article/azerbaijan-armenia-border-gunfire-european-union-observers-verin-shorzha-united-nations-nagorno-karabakh/).
+![Ursula von der Leyen shakes hands with President Aliyev. Behind them are the flags of the EU and Azerbaijan, respectively.](./images/ursulavonderleyen.jpg)
+> Ursula von der Leyen (left) and President Aliyev (right) shake hands during a meeting to sign a new energy deal. Image source: president.az.
+
+By increasing its economic dependence on Azerbaijan, the EU gave Azerbaijan the political leverage that it needed to tighten its chokehold on Artsakh. While the EU did deploy a border-monitoring mission to Armenia in January 2023, this did little to abate Azerbaijan's aggression—in June 2023, the Azerbaijani ambassador to the EU [openly threatened the monitoring mission on Twitter](https://euobserver.com/world/157246); on August 15, 2023, Azerbaijan [fired across the border in the direction of the EU delegates](https://www.politico.eu/article/azerbaijan-armenia-border-gunfire-european-union-observers-verin-shorzha-united-nations-nagorno-karabakh/). Nor did the presence of this monitoring mission deter Azerbaijan's military assault in September of 2023.
 
 ### Russia
 This should not come as a surprise in light of Russia's unprovoked invasion of Ukraine. After the 2020 Artsakh war, Russia [deployed a peacekeeping contingent of 2,000 soldiers](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement#Overview) to Artsakh as part of the ceasefire agreement signed by Armenia and Azerbaijan. The peacekeepers have done nothing to maintain peace in the region; they are a symbol of Russia's impotence and dwindling regional influence. Armenian Prime Minister Nikol Pashinyan has [repeatedly criticized CSTO member Russia](https://eurasianet.org/tensions-rise-between-armenia-russia) for its inaction in the blockade. President Putin also reportedly [ordered Russian state media to blame Armenia](https://www.themoscowtimes.com/2023/09/20/kremlin-orders-media-lawmakers-to-blame-armenia-for-karabakh-conflict-reports-a82527) for Azerbaijan's September 19 assault on Artsakh, and Russian peacekeepers stood idly by as Azerbaijan carried out the attacks.
@@ -168,7 +185,13 @@ Like their German and British counterparts, [some Italian politicians were bribe
 ### Israel
 Israel has been [actively arming Azerbaijan with modern weaponry since 2016](https://armenianweekly.com/2023/03/08/israels-massive-supply-of-sophisticated-weapons-to-azerbaijan/) in an attempt to weaken Iran. Azerbaijan's main cargo arline, Silk Way Airlines, [makes regular trips to the Ovda military base in Tel Aviv](https://hetq.am/en/article/159676), where it acquires weapons and other supplies—weapons like the LORA ballistic missiles and kamikaze drones that [Azerbaijan used against Armenians](https://www.csis.org/analysis/air-and-missile-war-nagorno-karabakh-lessons-future-strike-and-defense) during the Second Nagorno-Karabakh War.
 
+### Pakistan
+Pakistan and Azerbaijan have [close ties in the energy and arms sectors](https://eurasianet.org/azerbaijan-ties-with-pakistan-focusing-on-arms-and-energy). During the September 19 attacks, Azerbaijani soldiers [filmed themselves using the Pakistani-made KRL-122 Ghazab multiple launch rocket system](https://twitter.com/OSPSF/status/1704087209349959924) against the people of Artsakh.
+
 ### Turkey
+![President Erdogan of Turkey and President Aliyev of Azerbaijan shake hands during a meeting on September 20, 2023.](./images/erdogan-aliyev.jpg)
+> Image source: [President Erdogan discusses latest situation in Karabakh with Azerbaijani counterpart](https://www.aa.com.tr/en/world/president-erdogan-discusses-latest-situation-in-karabakh-with-azerbaijani-counterpart-/2997316)
+
 Denial of the first Armenian genocide is [the official state policy of Turkey](https://www.mfa.gov.tr/the-armenian-allegation-of-genocide-the-issue-and-the-facts.en.mfa). During the Second Nagorno-Karabakh War between Armenia and Azerbaijan in 2020, Turkey actively armed Azerbaijan in pursuit of [its own geopolitical goals](https://nationalinterest.org/feature/what-does-turkey%E2%80%99s-pan-turkic-eurasian-pivot-hold-pakistan-201381) of creating a greater Turkic World. In his December 2020 speech at the victory day parade in Baku, President Erdogan appealed to this surging Turkish nationalism and [openly praised the perpetrators of the Armenian genocide](https://44days.info/speech-by-president-recep-tayyip-erdogan/):
 
 > Today the soul of Azerbaijan’s national poet, great fighter Ahmad Javad will rejoice. Today the soul of Nuri Pasha, Enver Pasha, brave soldiers of the Caucasian Islamic Army will rejoice. Today the soul of one of the first Azerbaijani martyrs, Mubariz Ibrahimov, will rejoice. Today is a day of victory and pride for all of us, for the entire Turkic world.
@@ -178,15 +201,19 @@ During [the UNSC emergency meeting on August 16, 2023](https://media.un.org/en/a
 ### The United States
 In 1992, after the first Artsakh war, Congress passed the Freedom Support Act; [Section 907](https://en.wikipedia.org/wiki/Section_907) of this act bans direct U.S. aid to Azerbaijan. In 2001, the Senate amended the act to allow the President to waive Section 907; every single president has exercised this right since then. Since 2001, the U.S. has provided [over $470 million in military aid to Azerbaijan](https://securityassistance.org/security-sector-assistance/).
 
-Since the start of the blockade, President Biden has not issued any statements concerning the blockade or condemned President Aliyev. Biden also did not comment on Azerbaijan's shelling of Artsakh on September 19 while attending the 78th UN General Assembly. [Yuri Kim](https://www.state.gov/biographies/yuri-kim/), Principal Deputy Assistant Secretary of State for Europe and Eurasian Affairs, [claimed during a hearing](https://twitter.com/ANCA_DC/status/1704239155746680915):
+President Biden never issued any statements concerning Azerbaijan's nine-month blockade of President Aliyev. Biden also did not mention or denounce Azerbaijan's shelling of Artsakh on September 19, the same day he was attending the 78th UN General Assembly during which he [proudly proclaimed](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-president-biden-before-the-78th-session-of-the-united-nations-general-assembly-new-york-ny/):
 
-> The United States will not countenance any effort or action, short-term or long term, to ethnically cleanse or commit other atrocities against the Armenian people of Nagorno Karabakh.
+> If we abandon the core principles of the UN Charter to appease an aggressor, can any member state in this body feel confident that they are protected? 
+
+[Yuri Kim](https://www.state.gov/biographies/yuri-kim/), Principal Deputy Assistant Secretary of State for Europe and Eurasian Affairs, [claimed during a September 14 hearing](https://www.foreign.senate.gov/hearings/assessing-the-crisis-in-nagorno-karabakh) that the United States would not tolerate the use of military force to settle the disputes over Artsakh:
+
+> The United States will not countenance any effort or action—short-term or long term—to ethnically cleanse or commit other atrocities against the Armenian people of Nagorno-Karabakh.
 
 ## What you can do
 
 ### Contact your representatives
 
-If you live in the United States, you have a **civic and moral obligation to make your voice heard**:
+You have a **civic and moral obligation to make your voice heard**. If you live in the United States:
 
 1. Visit [https://www.congress.gov/members/find-your-member](https://www.congress.gov/members/find-your-member).
 2. Enter your home address.
