@@ -14,7 +14,8 @@ You may freely copy any part of this document to spread awareness. If you are al
   - [Starvation as a weapon of genocide](#starvation-as-a-weapon-of-genocide)
   - [Azerbaijani propaganda and denial of the genocide](#azerbaijani-propaganda-and-denial-of-the-genocide)
   - [Military assault on Artsakh](#military-assault-on-artsakh)
-  - [Artsakh refugee crisis](#artsakh-refugee-crisis)
+  - [The ethnic cleansing of Artsakh](#the-ethnic-cleansing-of-artsakh)
+    - [Number of displaced Artsakh refugees](#number-of-displaced-artsakh-refugees)
 - [Complicity in, and failure to prevent, the genocide](#complicity-in-and-failure-to-prevent-the-genocide)
   - [The European Union](#the-european-union)
   - [Russia](#russia)
@@ -129,7 +130,7 @@ On September 20, 2023, to prevent the further loss of life, [the government of A
 
 > As of 21:30, September 20, according to the information collected by the Office of the Human Rights Defender, there are at least 200 deaths and more than 400 wounded persons. The number of injured people among the civilian population exceeds 40 persons, among whom 13 are children. There are 10 confirmed civilian deaths at the moment, among whom 5 are children. The fact-finding activities by our Office, aimed at established the fate of missing people, continue.
 
-### Artsakh refugee crisis
+### The ethnic cleansing of Artsakh
 
 In the aftermath of Azerbaijan's military assault, over 40,000 displaced Armenian refugees fled to Stepanakert Airport, with tens of thousands more reportedly stranded and encircled by Azeri forces on the outskirts of Artsakh. Many Armenians had lost contact with their family members.
 
@@ -137,17 +138,37 @@ In the aftermath of Azerbaijan's military assault, over 40,000 displaced Armenia
 
 On September 23, the Red Cross [delivered 70 tons of humanitarian supplies to affected areas in Artsakh](https://twitter.com/icrc/status/1705633759519773034) and evacuated 17 wounded people.
 
-By September 25, [thousands of Armenians had already begun their exodus to Armenia](https://www.bbc.com/news/world-europe-66905581), with many more still unable to evacuate from Artsakh.
-
 On September 26, [USAID Administrator Samantha Power visited towns in Armenia near the Lachin Corridor](https://www.usaid.gov/news-information/press-releases/sep-27-2023-administrator-samantha-power-continues-her-trip-armenia-visiting-towns-near-lachin-corridor) and pledged $11.5m in humanitarian aid from the United States to help with the refugee crisis.
-
-By the morning of September 27, [over 40,000 Armenian refugees—more than a third of Artsakh's population—had already crossed the border into Armenia](https://twitter.com/robananyan/status/1706955495028748798).
 
 ![A roadway packed with civilian vehicles for as far as the eye can see.](./images/exodus.jpg)
 > [Image credit: Neil Hauer on Twitter](https://twitter.com/NeilPHauer/status/1706324226242756670/photo/1)
 
 ![An aerial view of the Stepanakert-Goris roadway connecting Artsakh to Armenia via the Lachin Corridor. A lone roadway winds between mountainous landscapes; the entirety of the road is dotted with rows of vehicles.](./images/aerial.jpg)
 > [Image credit: Maxar Technologies/Reuters](https://twitter.com/ianbremmer/status/1707128224197579112/photo/1)
+
+#### Number of displaced Artsakh refugees
+
+|Date & time (local)|Number of refugees|Source|
+|----:|------------------------------------------------------:|:------|
+|2023-09-24|377|[Reuters](https://www.reuters.com/world/armenia-calls-un-mission-monitor-rights-nagorno-karabakh-2023-09-24/)|
+|2023-09-25 06:00|2,906|[Armenpress](https://armenpress.am/eng/news/1120411.html)|
+|2023-09-25 17:00|6,650|[Armenpress](https://armenpress.am/eng/news/1120469.html)|
+|2023-09-26 08:00|13,550|[Armenpress](https://armenpress.am/eng/news/1120521.html)|
+|2023-09-26|20,270|[Armenpress](https://armenpress.am/eng/news/1120604.html)|
+|2023-09-26 20:00|28,120|[Armenpress](https://armenpress.am/eng/news/1120608.html)|
+|2023-09-27 08:00|42,500|[Armenpress](https://armenpress.am/eng/news/1120635.html)|
+|2023-09-27 15:00|50,243|[Armenpress](https://armenpress.am/eng/news/1120663.html)|
+|2023-09-27 19:00|53,629|[Armenpress](https://armenpress.am/eng/news/1120682.html)|
+|2023-09-28 08:00|65,036|[Armenpress](https://armenpress.am/eng/news/1120698.html)|
+|2023-09-28 10:00|66,500|[Armenpress](https://armenpress.am/eng/news/1120710.html)|
+|2023-09-28 12:00|68,386|[Armenpress](https://armenpress.am/eng/news/1120726.html)|
+|2023-09-28 14:00|70,500|[Armenpress](https://armenpress.am/eng/news/1120757.html)|
+|2023-09-28 18:00|74,400|[Armenpress](https://armenpress.am/eng/news/1120786.html)|
+|2023-09-28 20:00|76,407|[Armenpress](https://armenpress.am/eng/news/1120795.html)|
+|2023-09-29 06:00|84,770|[Armenpress](https://armenpress.am/eng/news/1120803.html)|
+|2023-09-29 10:00|88,780|[Armenpress](https://armenpress.am/eng/news/1120829.html)|
+|2023-09-29 12:00|91,448|[Armenpress](https://armenpress.am/eng/news/1120871.html)|
+|2023-09-29 18:00|97,735|[Armenpress](https://armenpress.am/eng/news/1120895.html)|
 
 ## Complicity in, and failure to prevent, the genocide
 
