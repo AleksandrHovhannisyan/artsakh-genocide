@@ -146,6 +146,14 @@ On September 26, [USAID Administrator Samantha Power visited towns in Armenia ne
 ![An aerial view of the Stepanakert-Goris roadway connecting Artsakh to Armenia via the Lachin Corridor. A lone roadway winds between mountainous landscapes; the entirety of the road is dotted with rows of vehicles.](./images/aerial.jpg)
 > [Image credit: Maxar Technologies/Reuters](https://twitter.com/ianbremmer/status/1707128224197579112/photo/1)
 
+As many legal experts had warned for months leading up to these events, the forced displacement of Artsakh's Armenian population [amounts to a war crime](https://www.reuters.com/world/asia-pacific/nagorno-karabakh-exodus-amounts-war-crime-legal-experts-say-2023-09-29/):
+
+> Whatever the history and the lack of independent reports on events inside the isolated territory, several international legal experts believe the mass flight fits the legal definition of a war crime.
+>
+> The ICC's founding documents say that, when referring to forcible transfer or deportation, "the term 'forcibly' is not restricted to physical force, but may include threat of force or coercion, such as that caused by fear of violence, duress, detention, psychological oppression or abuse of power against such person or persons or another person, or by taking advantage of a coercive environment".
+>
+> Such a "coercive environment" was created in Nagorno-Karabakh before the offensive by Azerbaijan's obstruction of essential supplies, said international lawyer Priya Pillai and Melanie O'Brien, visiting professor at the University of Minnesota and president of the International Association of Genocide Scholars.
+
 #### Number of displaced Artsakh refugees
 
 |Date & time (local)|Number of refugees|Source|
@@ -169,6 +177,8 @@ On September 26, [USAID Administrator Samantha Power visited towns in Armenia ne
 |2023-09-29 10:00|88,780|[Armenpress](https://armenpress.am/eng/news/1120829.html)|
 |2023-09-29 12:00|91,448|[Armenpress](https://armenpress.am/eng/news/1120871.html)|
 |2023-09-29 18:00|97,735|[Armenpress](https://armenpress.am/eng/news/1120895.html)|
+|2023-09-30|100,417|[Armenpress](https://armenpress.am/eng/news/1120924.html)|
+|2023-09-30 14:00|100,437|[Armenpress](https://armenpress.am/eng/news/1120943.html)|
 
 ## Complicity in, and failure to prevent, the genocide
 
@@ -196,7 +206,7 @@ From 2012 to 2014, [Azerbaijan used four British companies to launder $2.9 billi
 ### Germany
 [A VICE investigation](https://www.vice.com/en/article/qjp73b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev) implicated a number of German politicians in an Azerbaijani campaign to bribe European diplomats.
 
-However, Germany has also repeatedly condemned Azerbaijan for the blockade and the September 19 attack. It also [provided the ICRC with an additional €2 million](https://armenpress.am/eng/news/1119217.html) to carry out its work in Artsakh.
+> However, it is worth giving credit where due. Germany repeatedly condemned Azerbaijan for the blockade and the September 19 attack. It also [provided the ICRC with an additional €2 million](https://armenpress.am/eng/news/1119217.html) to carry out its work in Artsakh.
 
 ### Italy
 Italy spends more on Azerbaijani exports than any other European country; in 2022 alone, it [imported $17B worth of goods from Azerbaijan](https://tradingeconomics.com/azerbaijan/exports-by-country)—more than eight times as much as Turkey did. Azerbaijan is also a key energy and military partner for Italy—in 2023, Italy signed [a $170M deal to install gas turbines in Azerbaijan](https://www.nasdaq.com/articles/italys-ansaldo-energia-signs-$171-mln-gas-turbine-deal-in-azerbaijan) at an electric power plant; in June 2023, [Azerbaijan reached a deal to purchase military aircraft from Italy](https://eurasianet.org/azerbaijan-to-buy-italian-military-aircraft).
@@ -265,7 +275,7 @@ The links below provide important context on this decades-long conflict between 
 - [The West’s Double Standards in the Armenian Crisis](https://jacobin.com/2023/08/armenian-crisis-western-strategy-double-standards-energy-security) | [Archive](https://web.archive.org/web/20230810231409/https://jacobin.com/2023/08/armenian-crisis-western-strategy-double-standards-energy-security/)
 - [Nagorno-Karabakh crisis puts the spotlight on EU ties with Azerbaijan](https://www.politico.eu/article/crisis-in-karabakh-baku-eu-armenia-azerbaijan/) | [Archive](https://web.archive.org/web/20230810232330/https://www.politico.eu/article/crisis-in-karabakh-baku-eu-armenia-azerbaijan/)
 - [‘There is no way out’: residents of Nagorno-Karabakh fear worst as Azerbaijan’s troops take control](https://www.theguardian.com/world/2023/sep/24/fear-rises-food-runs-short-karabakh-azerbaijan) | [Archive](https://web.archive.org/web/20230929170541/https://www.theguardian.com/world/2023/sep/24/fear-rises-food-runs-short-karabakh-azerbaijan)
-- [Kremlin Orders Media, Lawmakers to Blame Armenia for Karabakh Conflict – Reports](https://www.themoscowtimes.com/2023/09/20/kremlin-orders-media-lawmakers-to-blame-armenia-for-karabakh-conflict-reports-a82527) | [Archive](https://web.archive.org/web/20230921184250/https://www.themoscowtimes.com/2023/09/20/kremlin-orders-media-lawmakers-to-blame-armenia-for-karabakh-conflict-reports-a82527)
+- [Nagorno-Karabakh exodus amounts to a war crime, legal experts say](https://www.reuters.com/world/asia-pacific/nagorno-karabakh-exodus-amounts-war-crime-legal-experts-say-2023-09-29/) | [Archive](https://web.archive.org/web/20230930074243/https://www.reuters.com/world/asia-pacific/nagorno-karabakh-exodus-amounts-war-crime-legal-experts-say-2023-09-29/)
 
 ### War crimes and crimes against humanity committed by Azerbaijan
 - [Willful killing, mutilation, torture, and inhuman treatment of Armenians by Azerbaijani forces](https://azeriwarcrimes.org/atrocities/) | [Archive](https://web.archive.org/web/20230530133232/https://azeriwarcrimes.org/atrocities/)
