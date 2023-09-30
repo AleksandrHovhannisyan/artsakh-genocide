@@ -31,7 +31,7 @@ You may freely copy any part of this document to spread awareness. If you are al
   - [Contact USAID, the Bureau for Conflict Prevention and Stabilization, and the Office of Foreign Assistance](#contact-usaid-the-bureau-for-conflict-prevention-and-stabilization-and-the-office-of-foreign-assistance)
 - [Further reading](#further-reading)
   - [Artsakh blockade and genocide (ongoing)](#artsakh-blockade-and-genocide-ongoing)
-  - [War crimes and the pardoning of Azeri war criminals](#war-crimes-and-the-pardoning-of-azeri-war-criminals)
+  - [War crimes and crimes against humanity committed by Azerbaijan](#war-crimes-and-crimes-against-humanity-committed-by-azerbaijan)
   - [Armenophobia and anti-Armenian propaganda in Azerbaijan](#armenophobia-and-anti-armenian-propaganda-in-azerbaijan)
   - [Erasure of Armenian cultural monuments in Artsakh](#erasure-of-armenian-cultural-monuments-in-artsakh)
   - [Caviar diplomacy: Azerbaijani lobbying and influence in Western media and politics](#caviar-diplomacy-azerbaijani-lobbying-and-influence-in-western-media-and-politics)
@@ -264,9 +264,10 @@ The links below provide important context on this decades-long conflict between 
 - [Preliminary opinion on the situation in Nagorno-Karabakh and on the need for the international community to adopt measures to prevent atrocity crimes](https://un.mfa.am/file_manager/un_mission/Preliminary%20Opinion%20-%2023.08.2023.pdf) | [Archive](https://web.archive.org/web/20230923191025/https://un.mfa.am/file_manager/un_mission/Preliminary%20Opinion%20-%2023.08.2023.pdf)
 - [The West’s Double Standards in the Armenian Crisis](https://jacobin.com/2023/08/armenian-crisis-western-strategy-double-standards-energy-security) | [Archive](https://web.archive.org/web/20230810231409/https://jacobin.com/2023/08/armenian-crisis-western-strategy-double-standards-energy-security/)
 - [Nagorno-Karabakh crisis puts the spotlight on EU ties with Azerbaijan](https://www.politico.eu/article/crisis-in-karabakh-baku-eu-armenia-azerbaijan/) | [Archive](https://web.archive.org/web/20230810232330/https://www.politico.eu/article/crisis-in-karabakh-baku-eu-armenia-azerbaijan/)
+- [‘There is no way out’: residents of Nagorno-Karabakh fear worst as Azerbaijan’s troops take control](https://www.theguardian.com/world/2023/sep/24/fear-rises-food-runs-short-karabakh-azerbaijan) | [Archive](https://web.archive.org/web/20230929170541/https://www.theguardian.com/world/2023/sep/24/fear-rises-food-runs-short-karabakh-azerbaijan)
 - [Kremlin Orders Media, Lawmakers to Blame Armenia for Karabakh Conflict – Reports](https://www.themoscowtimes.com/2023/09/20/kremlin-orders-media-lawmakers-to-blame-armenia-for-karabakh-conflict-reports-a82527) | [Archive](https://web.archive.org/web/20230921184250/https://www.themoscowtimes.com/2023/09/20/kremlin-orders-media-lawmakers-to-blame-armenia-for-karabakh-conflict-reports-a82527)
 
-### War crimes and the pardoning of Azeri war criminals
+### War crimes and crimes against humanity committed by Azerbaijan
 - [Willful killing, mutilation, torture, and inhuman treatment of Armenians by Azerbaijani forces](https://azeriwarcrimes.org/atrocities/) | [Archive](https://web.archive.org/web/20230530133232/https://azeriwarcrimes.org/atrocities/)
 - [Aliyev Awards Officer who Decapitated Artsakh Soldier](https://asbarez.com/aliyev-awards-officer-who-decapitated-artsakh-soldier/) | [Archive](https://web.archive.org/web/20230803182352/https://asbarez.com/aliyev-awards-officer-who-decapitated-artsakh-soldier/)
 - [Hero’s welcome for Azerbaijan axe murderer](https://www.aljazeera.com/news/2012/9/2/heros-welcome-for-azerbaijan-axe-murderer) | [Archive](https://web.archive.org/web/20230531001742/https://www.aljazeera.com/news/2012/9/2/heros-welcome-for-azerbaijan-axe-murderer)
@@ -275,6 +276,12 @@ The links below provide important context on this decades-long conflict between 
 - [Video Shows Azerbaijan Forces Executing Armenian POWs](https://www.hrw.org/news/2022/10/14/video-shows-azerbaijan-forces-executing-armenian-pows) | [Archive](https://web.archive.org/web/20230726233956/https://www.hrw.org/news/2022/10/14/video-shows-azerbaijan-forces-executing-armenian-pows)
 - [Rape and mutilation of Anush Apetyan, an Armenian servicewoman, during a September 2022 incursion into Armenian territory](https://en.wikipedia.org/wiki/Death_of_Anush_Apetyan) | [Archive](https://web.archive.org/web/20230725211959/https://en.wikipedia.org/wiki/Death_of_Anush_Apetyan)
 - [Azerbaijan Is Torturing and Beheading Armenians](https://providencemag.com/2022/12/azerbaijan-is-torturing-and-beheading-armenians/) | [Archive](https://web.archive.org/web/20230601191350/https://providencemag.com/2022/12/azerbaijan-is-torturing-and-beheading-armenians/)
+- [White Phosphorus in Artsakh / Pt. 1: From the Front Line to the Operating Room](https://www.youtube.com/watch?v=qjwzHkyGYQA)
+- [Shusha massacre (1920)](https://en.wikipedia.org/wiki/Shusha_massacre)
+- [Sumgait pogrom (1988)](https://en.wikipedia.org/wiki/Sumgait_pogrom)
+- [Baku pogrom (1990)](https://en.wikipedia.org/wiki/Baku_pogrom)
+- [Garry Kasparov about the Baku Pogrom against Armenians in 1990](https://www.youtube.com/watch?v=RqXubG9MV10)
+- [Manufacturing A Massacre: The Armenian Pogroms in Baku](https://www.youtube.com/watch?v=0HLsdNMR4kY)
 
 ### Armenophobia and anti-Armenian propaganda in Azerbaijan
 - ["Hate, hate, hate!" Why are minors taught to hate in Azerbaijani schools?](https://www.bbc.com/azeri/region-63203019) | [Archive](https://web.archive.org/web/20221117123534/https%3A%2F%2Fwww.bbc.com%2Fazeri%2Fregion-63203019)
