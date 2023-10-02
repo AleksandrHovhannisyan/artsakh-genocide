@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Artsakh Genocide (2022–present)
+# Artsakh Genocide (2022–2023)
 
 > Since the Second Karabakh War of 2020, Azerbaijan has been testing the waters of what the international community considers acceptable. Now, it intends to finish [what the Ottoman Turks started in 1915](https://en.wikipedia.org/wiki/Armenian_genocide). This modern-day genocide underscores the failure of western diplomacy.
 
@@ -7,7 +7,7 @@ You may freely copy any part of this document to spread awareness. If you are al
 
 <!-- omit in toc -->
 ## Table of Contents
-- [The Artsakh Genocide (2022–present)](#the-artsakh-genocide-2022present)
+- [The Artsakh Genocide (2022–2023)](#the-artsakh-genocide-2022present)
   - [Historical Background](#historical-background)
   - [The Lachin Corridor blockade](#the-lachin-corridor-blockade)
   - [A binding ICJ order, international condemnation, and genocide alerts](#a-binding-icj-order-international-condemnation-and-genocide-alerts)
@@ -36,7 +36,7 @@ You may freely copy any part of this document to spread awareness. If you are al
   - [Erasure of Armenian cultural monuments in Artsakh](#erasure-of-armenian-cultural-monuments-in-artsakh)
   - [Caviar diplomacy: Azerbaijani lobbying and influence in Western media and politics](#caviar-diplomacy-azerbaijani-lobbying-and-influence-in-western-media-and-politics)
 
-## The Artsakh Genocide (2022–present)
+## The Artsakh Genocide (2022–2023)
 
 ### Historical Background
 
@@ -267,7 +267,7 @@ Follow the steps outlined in [this Google Doc](https://docs.google.com/document/
 
 The links below provide important context on this decades-long conflict between Armenia and Azerbaijan.
 
-### Artsakh blockade and genocide (ongoing)
+### Artsakh blockade and genocide (2022–2023)
 - [Blockade of the Republic of Artsakh (2022–present)](https://en.wikipedia.org/wiki/Blockade_of_the_Republic_of_Artsakh_(2022%E2%80%93present))
 - [February 22, 2023 ICJ order](https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf) | [Archive](https://web.archive.org/web/20230314045608/https://www.icj-cij.org/public/files/case-related/180/180-20230222-ORD-01-00-EN.pdf)
 - [Sieged and Starved: 120,000 Armenians](https://providencemag.com/2023/05/sieged-and-starved-120000-armenians/) | [Archive](https://web.archive.org/web/20230000000000*/https://providencemag.com/2023/05/sieged-and-starved-120000-armenians/)
