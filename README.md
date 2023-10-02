@@ -15,7 +15,7 @@ You may freely copy any part of this document to spread awareness. If you are al
   - [Azerbaijani propaganda and denial of the genocide](#azerbaijani-propaganda-and-denial-of-the-genocide)
   - [Military assault on Artsakh](#military-assault-on-artsakh)
   - [The ethnic cleansing of Artsakh](#the-ethnic-cleansing-of-artsakh)
-    - [Number of displaced Artsakh refugees](#number-of-displaced-artsakh-refugees)
+    - [Number of Artsakh refugees who crossed the Armenian border](#number-of-artsakh-refugees-who-crossed-the-armenian-border)
 - [Complicity in, and failure to prevent, the genocide](#complicity-in-and-failure-to-prevent-the-genocide)
   - [The European Union](#the-european-union)
   - [Russia](#russia)
@@ -40,11 +40,13 @@ You may freely copy any part of this document to spread awareness. If you are al
 
 ### Historical Background
 
-Nagorno-Karabakh (known to Armenians as *Artsakh* or, formally, [the Republic of Artsakh](https://en.wikipedia.org/wiki/Republic_of_Artsakh)) is a self-declared republic of 120,000 ethnic Armenians in the Caucasus. It has been inhabited by a majority Armenian population [since 180 BC](https://en.wikipedia.org/wiki/Nagorno-Karabakh#Antiquity_and_Early_Middle_Ages) and is home to [many ancient Armenian cultural landmarks](https://en.wikipedia.org/wiki/Culture_of_Artsakh), including monasteries, churches, schools, and [thousands of khachkars (Armenian cross-stones)](https://en.wikipedia.org/wiki/Khachkar).
+Nagorno-Karabakh (known to Armenians as *Artsakh* or, formally, [the Republic of Artsakh](https://en.wikipedia.org/wiki/Republic_of_Artsakh)) is a self-declared republic of 120,000 ethnic Armenians ([2021 estimate](https://web.archive.org/web/20210513113421/https://www.primeminister.am/en/press-release/item/2021/03/25/Nikol-Pashinyan-meeting/)) in the Caucasus. Since [180 BC](https://en.wikipedia.org/wiki/Siege_of_Stepanakert), and up until September 2023, Artsakh was inhabited by a majority Armenian population; it is home to [many ancient Armenian cultural landmarks](https://en.wikipedia.org/wiki/Culture_of_Artsakh), including monasteries, churches, schools, and [thousands of khachkars (Armenian cross-stones)](https://en.wikipedia.org/wiki/Khachkar).
 
 ![A world map showing Armenia and bordering country Azerbaijan, with the self-declared Republic of Nagorno-Karabakh in Azerbaijan.](./images/artsakh-map.png)
 
-In 1991, Artsakh declared its independence from the Soviet Union. Since then, it has been the victim of three armed conflicts initiated by Azerbaijan:
+In late 1987, in what would later become known as [the Karabakh Movement](https://en.wikipedia.org/wiki/Karabakh_movement), the majority-Armenian population (76.9%) of the Nagorno-Karabakh Autonomous Oblast expressed its desire to unify with Armenia. This roused anti-Armenian sentiment among Azerbaijanis, and the following years brought waves of ethnic violence targeting Armenians living in Azerbaijan—first in the [Sumgait pogrom (1988)](https://en.wikipedia.org/wiki/Sumgait_pogrom) and again during the [Baku pogrom (1990)](https://en.wikipedia.org/wiki/Baku_pogrom). These events—which displaced Armenians and Azerbaijanis—culminated in the [Siege of Stepanakert (1991)](https://en.wikipedia.org/wiki/Siege_of_Stepanakert), during which Azerbaijan blockaded and bombarded the capital of Artsakh, sparking the First Nagorno-Karabakh War between Armenia and Azerbaijan.
+
+In total, Artsakh endured three armed conflicts initiated by Azerbaijan:
 
 - [First Nagorno-Karabakh War (1988–1994)](https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War)
 - [Second Nagorno-Karabakh War (2020)](https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War)
@@ -154,9 +156,9 @@ As many legal experts had warned for months leading up to these events, the forc
 >
 > Such a "coercive environment" was created in Nagorno-Karabakh before the offensive by Azerbaijan's obstruction of essential supplies, said international lawyer Priya Pillai and Melanie O'Brien, visiting professor at the University of Minnesota and president of the International Association of Genocide Scholars.
 
-#### Number of displaced Artsakh refugees
+#### Number of Artsakh refugees who crossed the Armenian border
 
-|Date & time (local)|Number of refugees|Source|
+|Date & time (local)|Number of refugees that entered Armenia|Source|
 |----:|------------------------------------------------------:|:------|
 |2023-09-24|377|[Reuters](https://www.reuters.com/world/armenia-calls-un-mission-monitor-rights-nagorno-karabakh-2023-09-24/)|
 |2023-09-25 06:00|2,906|[Armenpress](https://armenpress.am/eng/news/1120411.html)|
@@ -179,6 +181,9 @@ As many legal experts had warned for months leading up to these events, the forc
 |2023-09-29 18:00|97,735|[Armenpress](https://armenpress.am/eng/news/1120895.html)|
 |2023-09-30|100,417|[Armenpress](https://armenpress.am/eng/news/1120924.html)|
 |2023-09-30 14:00|100,437|[Armenpress](https://armenpress.am/eng/news/1120943.html)|
+[2023-10-01 12:00|100,483|[Armenpress](https://armenpress.am/eng/news/1120958.html)|
+|2023-10-01 16:00|100,490|[Armenpress](https://armenpress.am/eng/news/1120966.html)|
+|2023-10-02|100,520|[Armenpress](https://armenpress.am/eng/news/1121012.html)|
 
 ## Complicity in, and failure to prevent, the genocide
 
