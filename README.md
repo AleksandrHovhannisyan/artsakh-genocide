@@ -1,26 +1,30 @@
 <!-- omit in toc -->
 # Artsakh Genocide (2022–2023)
 
-> Since the Second Karabakh War of 2020, Azerbaijan has been testing the waters of what the international community considers acceptable. Now, it intends to finish [what the Ottoman Turks started in 1915](https://en.wikipedia.org/wiki/Armenian_genocide). This modern-day genocide underscores the failure of western diplomacy.
+> After blockading Artsakh's 100,000 ethnic Armenians for 10 months, Azerbaijan launched a full-scale military assault and displaced nearly all of the region's population. This modern-day genocide underscores the failure of western diplomacy.
 
 You may freely copy any part of this document to spread awareness. If you are already familiar with this conflict and are wondering how you can help, jump to [what you can do](#what-you-can-do).
 
 <!-- omit in toc -->
 ## Table of Contents
-- [The Artsakh Genocide (2022–2023)](#the-artsakh-genocide-2022present)
-  - [Historical Background](#historical-background)
+- [Historical Background](#historical-background)
+- [The Artsakh Genocide (2022–2023)](#the-artsakh-genocide-20222023)
   - [The Lachin Corridor blockade](#the-lachin-corridor-blockade)
   - [A binding ICJ order, international condemnation, and genocide alerts](#a-binding-icj-order-international-condemnation-and-genocide-alerts)
   - [Starvation as a weapon of genocide](#starvation-as-a-weapon-of-genocide)
   - [Azerbaijani propaganda and denial of the genocide](#azerbaijani-propaganda-and-denial-of-the-genocide)
   - [Military assault on Artsakh](#military-assault-on-artsakh)
   - [The ethnic cleansing of Artsakh](#the-ethnic-cleansing-of-artsakh)
+    - [Fuel depot explosion](#fuel-depot-explosion)
     - [Number of Artsakh refugees who crossed the Armenian border](#number-of-artsakh-refugees-who-crossed-the-armenian-border)
+- [Aftermath](#aftermath)
+  - [Arrests of Artsakh government officials](#arrests-of-artsakh-government-officials)
+  - [Humanitarian aid for Armenia](#humanitarian-aid-for-armenia)
+  - [European Parliament resolution to sanction Azerbaijan](#european-parliament-resolution-to-sanction-azerbaijan)
 - [Complicity in, and failure to prevent, the genocide](#complicity-in-and-failure-to-prevent-the-genocide)
   - [The European Union](#the-european-union)
   - [Russia](#russia)
   - [The United Kingdom](#the-united-kingdom)
-  - [Germany](#germany)
   - [Italy](#italy)
   - [Israel](#israel)
   - [Pakistan](#pakistan)
@@ -30,15 +34,13 @@ You may freely copy any part of this document to spread awareness. If you are al
   - [Contact your representatives](#contact-your-representatives)
   - [Contact USAID, the Bureau for Conflict Prevention and Stabilization, and the Office of Foreign Assistance](#contact-usaid-the-bureau-for-conflict-prevention-and-stabilization-and-the-office-of-foreign-assistance)
 - [Further reading](#further-reading)
-  - [Artsakh blockade and genocide (ongoing)](#artsakh-blockade-and-genocide-ongoing)
+  - [Artsakh blockade and genocide (2022–2023)](#artsakh-blockade-and-genocide-20222023)
   - [War crimes and crimes against humanity committed by Azerbaijan](#war-crimes-and-crimes-against-humanity-committed-by-azerbaijan)
   - [Armenophobia and anti-Armenian propaganda in Azerbaijan](#armenophobia-and-anti-armenian-propaganda-in-azerbaijan)
   - [Erasure of Armenian cultural monuments in Artsakh](#erasure-of-armenian-cultural-monuments-in-artsakh)
   - [Caviar diplomacy: Azerbaijani lobbying and influence in Western media and politics](#caviar-diplomacy-azerbaijani-lobbying-and-influence-in-western-media-and-politics)
 
-## The Artsakh Genocide (2022–2023)
-
-### Historical Background
+## Historical Background
 
 Nagorno-Karabakh (known to Armenians as *Artsakh* or, formally, [the Republic of Artsakh](https://en.wikipedia.org/wiki/Republic_of_Artsakh)) is a self-declared republic of 120,000 ethnic Armenians ([2021 estimate](https://web.archive.org/web/20210513113421/https://www.primeminister.am/en/press-release/item/2021/03/25/Nikol-Pashinyan-meeting/)) in the Caucasus. Since [180 BC](https://en.wikipedia.org/wiki/Siege_of_Stepanakert), and up until September 2023, Artsakh was inhabited by a majority Armenian population; it is home to [many ancient Armenian cultural landmarks](https://en.wikipedia.org/wiki/Culture_of_Artsakh), including monasteries, churches, schools, and [thousands of khachkars (Armenian cross-stones)](https://en.wikipedia.org/wiki/Khachkar).
 
@@ -51,6 +53,8 @@ In total, Artsakh endured three armed conflicts initiated by Azerbaijan:
 - [First Nagorno-Karabakh War (1988–1994)](https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War)
 - [Second Nagorno-Karabakh War (2020)](https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War)
 - [Blockade and invasion of Nagorno-Karabakh (September 19, 2023)](https://en.wikipedia.org/wiki/2023_Nagorno-Karabakh_clashes)
+
+## The Artsakh Genocide (2022–2023)
 
 ### The Lachin Corridor blockade
 
@@ -108,9 +112,7 @@ These conflicting narratives raise two important questions:
 1. First, if there was no blockade, what was the need for humanitarian aid or an alternative transportation route? The Red Cross goes where it is needed—places where there is an active humanitarian crisis.
 2. Second, if Azerbaijan truly intended to make peace with the Armenians of Artsakh, why did it impose this barbaric blockade in the first place and attempt to starve them into accepting its terms of negotiation?
 
-[Azerbaijan assured](https://oc-media.org/aliyev-ready-to-offer-amnesty-to-stepanakert-authorities-if-they-dissolve-government-and-parliament/) the citizens of Artsakh that they will be granted amnesty (for what?) if they disband their government and integrate into Azerbaijani society. It made these assurances while [arbitrarily arresting Armenians and illegally abducting them from the ICRC's custody](https://en.armradio.am/2023/07/29/the-arrest-of-a-person-under-the-protection-of-international-humanitarian-law-and-the-icrc-is-a-war-crime-armenian-mfa/) at the Lachin checkpoint.
-
-President Aliyev has one demand for the people of Artsakh: Lay down your arms in exchange for peace guarantees. But how can the Armenians of Artsakh trust the very people who [regularly mutilate and behead them](https://azeriwarcrimes.org/atrocities/), violate the fragile ceasefire, and [fire upon civilian farmers](https://asbarez.com/artsakh-farmers-again-targeted-by-azerbaijani-gunfire/)? How can they trust—much less coexist with—the very people who manufactured this humanitarian crisis in the first place?
+President Aliyev demanded that Artsakh lay down its arms and dissolve its government [in exchange for amnesty](https://oc-media.org/aliyev-ready-to-offer-amnesty-to-stepanakert-authorities-if-they-dissolve-government-and-parliament/). It made these assurances while [arbitrarily arresting Armenians and illegally abducting them from the ICRC's custody](https://en.armradio.am/2023/07/29/the-arrest-of-a-person-under-the-protection-of-international-humanitarian-law-and-the-icrc-is-a-war-crime-armenian-mfa/) at the Lachin checkpoint. This is the same government whose soldiers [mutilated and beheaded these Armenians](https://azeriwarcrimes.org/atrocities/), violated multiple ceasefires, [fired upon civilian farmers](https://asbarez.com/artsakh-farmers-again-targeted-by-azerbaijani-gunfire/), and blockaded the region for 10 months.
 
 ### Military assault on Artsakh
 
@@ -156,6 +158,10 @@ As many legal experts had warned for months leading up to these events, the forc
 >
 > Such a "coercive environment" was created in Nagorno-Karabakh before the offensive by Azerbaijan's obstruction of essential supplies, said international lawyer Priya Pillai and Melanie O'Brien, visiting professor at the University of Minnesota and president of the International Association of Genocide Scholars.
 
+#### Fuel depot explosion
+
+On September 25, [a fuel depot exploded in Artsakh](https://armenpress.am/eng/news/1120814/) as Armenians were queueing up to refuel their vehicles before fleeing. As of September 29, the death toll reportedly stood at 170, with hundreds more severely injured and transported to Armenia for treatment. Several countries dispatched medical teams to Armenia to help treat these burn victims.
+
 #### Number of Artsakh refugees who crossed the Armenian border
 
 |Date & time (local)|Number of refugees that entered Armenia|Source|
@@ -185,6 +191,49 @@ As many legal experts had warned for months leading up to these events, the forc
 |2023-10-01 16:00|100,490|[Armenpress](https://armenpress.am/eng/news/1120966.html)|
 |2023-10-02|100,520|[Armenpress](https://armenpress.am/eng/news/1121012.html)|
 
+## Aftermath
+
+### Arrests of Artsakh government officials
+
+Following the dissolution of Artsakh and the mass exodus of refugees to Armenia, Azerbaijan began arresting former government officials, including:
+
+- [Ruben Vardanyan](https://www.theguardian.com/world/2023/sep/27/former-state-minister-of-nagorno-karabakh-ruben-vardanyan-arrested-by-azerbaijan), former State Minister of Artsakh
+- [David Babayan](https://www.armenpress.am/eng/news/1120700/), presidential advisor
+- [Levon Mnatsakanyan](https://armenpress.am/eng/news/1120852.html), former commander of the Artsakh Defence Army
+- [Davit Manukyan](https://armenpress.am/eng/news/1120867.html), former First Deputy Commander of the Artsakh Defence Army
+- Arshavir Gharamyan, former director of Artsakh's National Security Service
+- [Bako Sahakyan](https://armenpress.am/eng/news/1121116/), third president of Artsakh (2007–2020)
+- [Arkadi Ghukasyan](https://armenpress.am/eng/news/1121116/), second president of Artsakh (1997–2007)
+- [Davit Ishkhanyan](https://armenpress.am/eng/news/1121116/), president of the Artsakh National Assembly
+- [Arayik Harutyunyan](https://apnews.com/article/azerbaijan-nagorno-karabakh-armenia-separatist-arrest-dcbb7290c2f3343c5e1c37827fd50533), fourth president of Artsakh (2020–2023)
+
+### Humanitarian aid for Armenia
+
+To help Armenia deal with the influx of refugees from Artsakh, foreign governments and non-profits offered humanitarian aid:
+
+|Party|Assistance|Source|
+|:-----------------|:----------|:------|
+|European Union   |€10.45 million|[ec.europa.eu](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_4787)|
+|Poland|10 tons of food, 200 beds, $200,000 in monetary aid|[gov.pl](https://www.gov.pl/web/diplomacy/deputy-minister-wojciech-gerwel-takes-part-in-delivery-of-humanitarian-aid-to-armenia)|
+|Belgium|Dispatched a medical team to Armenia to help treat victims of the September 25 fuel depot explosion.|[diplomatie.belgium.be](https://diplomatie.belgium.be/en/news/b-fast-offers-medical-assistance-armenia-after-explosion-fuel-depot-nagorno-karabakh)|
+|Israel|Dispatched a medical team to Armenia to help treat victims of the September 25 fuel depot explosion.|[jpost.com](https://www.jpost.com/israel-news/article-761887)|
+|France|A total of €12.5 in aid since the beginning of 2023|[diplomatie.gouv.fr](https://www.diplomatie.gouv.fr/en/country-files/azerbaijan/news/article/nagorno-karabakh-france-mobilizes-additional-assistance-27-09-23)|
+|Germany|Prior to the September 19th attack, Germany provided an additional €2 million in funding to help the Red Cross carry out its work in Artsakh.|[armenpress.am](https://armenpress.am/eng/news/1119217.html)|
+|USAID|$11.5 million|[usaid.gov](https://www.usaid.gov/news-information/press-releases/)|
+|World Food Programme (WFP)|4,000 food packages; 21,000 hot meals; food parcels for 30,000 people; food cards for 6,000 people|[wfp.org](https://www.wfp.org/news/world-food-programme-responds-humanitarian-crisis-thousands-people-flee-armenia)|
+|World Health Organization (WHO)|Support for victims of the fuel depot explosion in Artsakh. Three months' worth of medicine to cover the treatment of non-communicable diseases for 50,000 people. |[who.int](https://www.who.int/europe/news/item/01-10-2023-racing-to-meet-the-health-needs-of-refugees-entering-armenia)|
+|UNICEF|Support for children displaced by the conflict.|[news.un.org](https://news.un.org/en/audio/2023/10/1141972)|
+
+### European Parliament resolution to sanction Azerbaijan
+
+On October 5, 2023, members of the European Parliament (MEPs) voted on [a resolution condemning Azerbaijan's ethnic cleansing of Artsakh](https://www.europarl.europa.eu/news/en/press-room/20230929IPR06132/nagorno-karabakh-meps-demand-review-of-eu-relations-with-azerbaijan). The overwhelming majority of the MEPs—491 in favor, 9 against, and 36 abstained—called on the European Union to adopt sanctions against Azerbaijan and reconsider its relations with Baku.
+
+> In a resolution adopted on Thursday, Parliament strongly condemns Azerbaijan’s pre-planned and unjustified military attack against Nagorno-Karabakh on 19 September, which MEPs say constitutes a gross violation of international law and human rights and a clear infringement of previous attempts to achieve a ceasefire. With over 100,000 ethnic Armenians having been forced to flee the enclave since the latest offensive, MEPs say the current situation amounts to ethnic cleansing and strongly condemn threats and violence committed by Azerbaijani troops against the Armenian inhabitants of Nagorno-Karabakh.
+> 
+> They also call on the EU and member states to immediately offer all necessary assistance to Armenia to deal with the influx of refugees from Nagorno-Karabakh and the subsequent humanitarian crisis.
+> 
+> Appalled by Azerbaijan’s latest attack, Parliament calls on the EU to adopt targeted sanctions against the government officials in Baku responsible for multiple ceasefire violations and human rights abuses in Nagorno-Karabakh. While reminding the Azeri side that it bears full responsibility for ensuring the safety and well-being of all people in the enclave, MEPs demand investigations into abuses committed by Azerbaijani troops that may constitute war crimes.
+
 ## Complicity in, and failure to prevent, the genocide
 
 The UN's [Genocide Convention](https://www.un.org/en/genocideprevention/genocide-convention.shtml) states:
@@ -208,15 +257,10 @@ This should not come as a surprise in light of Russia's unprovoked invasion of U
 ### The United Kingdom
 From 2012 to 2014, [Azerbaijan used four British companies to launder $2.9 billion into Europe](https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme) to bribe politicians and journalists and discourage criticism of Aliyev's dictatorship. The legacy of this scandal lives on today in the West's reluctance to condemn or sanction Aliyev.
 
-### Germany
-[A VICE investigation](https://www.vice.com/en/article/qjp73b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev) implicated a number of German politicians in an Azerbaijani campaign to bribe European diplomats.
-
-> However, it is worth giving credit where due. Germany repeatedly condemned Azerbaijan for the blockade and the September 19 attack. It also [provided the ICRC with an additional €2 million](https://armenpress.am/eng/news/1119217.html) to carry out its work in Artsakh.
-
 ### Italy
 Italy spends more on Azerbaijani exports than any other European country; in 2022 alone, it [imported $17B worth of goods from Azerbaijan](https://tradingeconomics.com/azerbaijan/exports-by-country)—more than eight times as much as Turkey did. Azerbaijan is also a key energy and military partner for Italy—in 2023, Italy signed [a $170M deal to install gas turbines in Azerbaijan](https://www.nasdaq.com/articles/italys-ansaldo-energia-signs-$171-mln-gas-turbine-deal-in-azerbaijan) at an electric power plant; in June 2023, [Azerbaijan reached a deal to purchase military aircraft from Italy](https://eurasianet.org/azerbaijan-to-buy-italian-military-aircraft).
 
-Like their German and British counterparts, [some Italian politicians were bribed by Azerbaijan](https://www.occrp.org/en/daily/13628-italian-court-sentences-former-council-of-europe-mp-for-bribery) to paint the country in a positive light.
+Like their [German](https://www.vice.com/en/article/qjp74b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev) and British counterparts, [some Italian politicians were bribed by Azerbaijan](https://www.occrp.org/en/daily/13628-italian-court-sentences-former-council-of-europe-mp-for-bribery) to paint the country in a positive light.
 
 ### Israel
 Israel has been [actively arming Azerbaijan with modern weaponry since 2016](https://armenianweekly.com/2023/03/08/israels-massive-supply-of-sophisticated-weapons-to-azerbaijan/) in an attempt to weaken Iran. Azerbaijan's main cargo arline, Silk Way Airlines, [makes regular trips to the Ovda military base in Tel Aviv](https://hetq.am/en/article/159676), where it acquires weapons and other supplies—weapons like the LORA ballistic missiles and kamikaze drones that [Azerbaijan used against Armenians](https://www.csis.org/analysis/air-and-missile-war-nagorno-karabakh-lessons-future-strike-and-defense) during the Second Nagorno-Karabakh War.
