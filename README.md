@@ -125,10 +125,9 @@ On September 19, 2023, [Azerbaijan launched a large-scale assault on Artsakh wit
 ![Civilian buildings and vehicles damaged by Azerbaijani strikes in Artsakh.](./images/damage.jpg)
 > Image credit: Associated Press
 
-Much like how President Putin justified his invasion of Ukraine in 2022 as a "[special military operation](https://en.wikipedia.org/wiki/On_conducting_a_special_military_operation)," President Aliyev also claimed that Azerbaijan was conducting an "anti-terrorist military operation." He has vowed to carry out this operation to its end.
+Much like how President Putin justified his invasion of Ukraine in 2022 as a "[special military operation](https://en.wikipedia.org/wiki/On_conducting_a_special_military_operation)," President Aliyev also claimed that Azerbaijan was conducting an "anti-terrorist military operation." He vowed to carry out this operation to its end.
 
 On September 20, 2023, to prevent the further loss of life, [the government of Artsakh surrendered](https://www.nytimes.com/2023/09/20/world/europe/azerbaijan-armenia-cease-fire.html).
-
 
 [Artsakh / Nagorno-Karabakh Human Rights Ombudsman](https://twitter.com/ArtsakhOmbuds/status/1704551860999242216):
 
@@ -136,7 +135,7 @@ On September 20, 2023, to prevent the further loss of life, [the government of A
 
 ### The ethnic cleansing of Artsakh
 
-In the aftermath of Azerbaijan's military assault, over 40,000 displaced Armenian refugees fled to Stepanakert Airport, with tens of thousands more reportedly stranded and encircled by Azeri forces on the outskirts of Artsakh. Many Armenians had lost contact with their family members.
+In the aftermath of Azerbaijan's military assault, over 40,000 displaced Armenian refugees initially fled to Stepanakert Airport, with tens of thousands more stranded and encircled by Azeri forces on the outskirts of Artsakh. Many Armenians had lost contact with their family members.
 
 ![Armenian refugees crowded on the runways of Stepanakert Airport](./images/stepanakert-airport.jpg)
 
