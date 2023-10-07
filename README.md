@@ -209,19 +209,27 @@ Following the dissolution of Artsakh and the mass exodus of refugees to Armenia,
 
 ### Humanitarian aid for Armenia
 
-To help Armenia deal with the influx of refugees from Artsakh, foreign governments and non-profits offered humanitarian aid:
+To help Armenia deal with the influx of refugees from Artsakh, foreign governments and non-profits offered various forms of humanitarian aid to Armenia and organizations providing aid in the region:
 
-|Party|Assistance|Source|
+|Party|Assistance|Article links|
 |:-----------------|:----------|:------|
-|European Union   |€10.45 million|[ec.europa.eu](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_4787)|
-|Poland|10 tons of food, 200 beds, $200,000 in monetary aid|[gov.pl](https://www.gov.pl/web/diplomacy/deputy-minister-wojciech-gerwel-takes-part-in-delivery-of-humanitarian-aid-to-armenia)|
+|France|A total of €12.5 million in aid since the beginning of 2023.|[diplomatie.gouv.fr](https://www.diplomatie.gouv.fr/en/country-files/azerbaijan/news/article/nagorno-karabakh-france-mobilizes-additional-assistance-27-09-23)|
+|USAID and U.S. State Department|$11.5 million|[usaid.gov](https://www.usaid.gov/news-information/press-releases/), [reuters.com](https://www.reuters.com/world/germanys-baerbock-calls-azerbaijan-allow-observers-enter-karabakh-2023-09-27/)|
+|European Union   |€10.45 million in monetary aid, along with direct humanitarian aid.|[ec.europa.eu](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_4787), [European Commissioner for Crisis Management](https://twitter.com/JanezLenarcic/status/1710582811613135031)|
+|Germany|€5 million in funding for the Red Cross|[armenpress.am](https://armenpress.am/eng/news/1119217.html)|
+|Italy|€4 million in funding for the Red Cross|[esteri.it](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2023/10/vice-ministro-cirielli-dispone-stanziamento-di-4-mln-euro-di-fondi-maeci-cooperazione-allo-sviluppo-a-favore-della-croce-rossa-per-interventi-urgenti-in-favore-delle-popolazioni-del-nagorno-karabak/)|
+|Canada|$2.5 million in funding for the Red Cross|[canada.ca](https://www.canada.ca/en/global-affairs/news/2023/09/canada-provides-humanitarian-assistance-funding-in-response-to-nagorno-karabakh-crisis.html)|
+|Japan|$2 million|[Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/press/release/press4e_003308.html)|
+|Norway|$1.85 million|[armradio.am](https://en.armradio.am/2023/09/30/norway-contributes-1-85-million-in-humanitarian-assistance-to-the-civilian-population-of-nagorno-karabakh/)|
+|Spain|€1 million|[Minister of Foreign Affairs José Manuel Albares](https://twitter.com/jmalbares/status/1707437064323543504)|
+|World Food Programme (WFP)|<ul><li>4,000 food packages</li><li>21,000 hot meals</li><li>food parcels for 30,000 people</li><li>food cards for 6,000 people</li></ul>|[wfp.org](https://www.wfp.org/news/world-food-programme-responds-humanitarian-crisis-thousands-people-flee-armenia)|
+|Poland|<ul><li>10 tons of food</li><li>200 beds</li><li>$200,000 in monetary aid</li></ul>|[gov.pl](https://www.gov.pl/web/diplomacy/deputy-minister-wojciech-gerwel-takes-part-in-delivery-of-humanitarian-aid-to-armenia)|
+|Lithuania|€350k|[Minister of Foreign Affairs Gabrielius Landsbergis](https://twitter.com/GLandsbergis/status/1709561317718102359)|
+|Czech Republic|€200k|[Ambassador of the Czech Republic to Armenia](https://twitter.com/petr_piruncik/status/1709212618286592087), [](https://twitter.com/JanezLenarcic/status/1710582811613135031)|
 |Belgium|Dispatched a medical team to Armenia to help treat victims of the September 25 fuel depot explosion.|[diplomatie.belgium.be](https://diplomatie.belgium.be/en/news/b-fast-offers-medical-assistance-armenia-after-explosion-fuel-depot-nagorno-karabakh)|
+|Iran|60 tons of humanitarian aid|[news.am](https://news.am/eng/news/784768.html)|
 |Israel|Dispatched a medical team to Armenia to help treat victims of the September 25 fuel depot explosion.|[jpost.com](https://www.jpost.com/israel-news/article-761887)|
-|France|A total of €12.5 in aid since the beginning of 2023|[diplomatie.gouv.fr](https://www.diplomatie.gouv.fr/en/country-files/azerbaijan/news/article/nagorno-karabakh-france-mobilizes-additional-assistance-27-09-23)|
-|Germany|Prior to the September 19th attack, Germany provided an additional €2 million in funding to help the Red Cross carry out its work in Artsakh.|[armenpress.am](https://armenpress.am/eng/news/1119217.html)|
-|USAID|$11.5 million|[usaid.gov](https://www.usaid.gov/news-information/press-releases/)|
-|World Food Programme (WFP)|4,000 food packages; 21,000 hot meals; food parcels for 30,000 people; food cards for 6,000 people|[wfp.org](https://www.wfp.org/news/world-food-programme-responds-humanitarian-crisis-thousands-people-flee-armenia)|
-|World Health Organization (WHO)|Support for victims of the fuel depot explosion in Artsakh. Three months' worth of medicine to cover the treatment of non-communicable diseases for 50,000 people. |[who.int](https://www.who.int/europe/news/item/01-10-2023-racing-to-meet-the-health-needs-of-refugees-entering-armenia)|
+|World Health Organization (WHO)|<ul><li>Support for victims of the fuel depot explosion in Artsakh.</li><li>Three months' worth of medicine to cover the treatment of non-communicable diseases for 50,000 people.</li></ul>|[who.int](https://www.who.int/europe/news/item/01-10-2023-racing-to-meet-the-health-needs-of-refugees-entering-armenia)|
 |UNICEF|Support for children displaced by the conflict.|[news.un.org](https://news.un.org/en/audio/2023/10/1141972)|
 
 ### European Parliament resolution to sanction Azerbaijan
