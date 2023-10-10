@@ -87,7 +87,7 @@ Early on in the blockade, Red Cross (ICRC) vehicles were granted intermittent pa
 
 > Despite persistent efforts, the International Committee of the Red Cross (ICRC) is not currently able to bring humanitarian assistance to the civilian population through the Lachin corridor or through any other routes, including Aghdam.
 
-As a result of the blockade, food was severely rationed in Artsakh; miscarriages tripled, and medical complications rose sharply. Baby formula, essential hygiene products, and basic food necessities were all in critically short supply, and [people were reportedly fainting in bread queues](https://www.bbc.com/news/world-europe-66646677). [Photos and videos taken by residents and local journalists](https://www.youtube.com/watch?v=eScflb61W0E) showed rows of empty store shelves throughout Artsakh's supermarkets.
+As a result of the blockade, food was severely rationed in Artsakh; miscarriages tripled, and medical complications rose sharply. Baby formula, essential hygiene products, and basic food necessities were all in critically short supply, and [people were fainting in bread queues](https://www.bbc.com/news/world-europe-66646677). [Photos and videos taken by residents and local journalists](https://www.youtube.com/watch?v=eScflb61W0E) showed rows of empty store shelves throughout Artsakh's supermarkets.
 
 On July 26, [a convoy of Armenian trucks carrying 360 tons of food](https://www.rferl.org/a/azerbaijan-blocks-armenian-aid-convoy-/32522087.html) became stranded just outside the Lachin Corridor checkpoint after Azerbaijani officials denied it entry.
 
@@ -159,7 +159,7 @@ As many legal experts had warned for months leading up to these events, the forc
 
 #### Fuel depot explosion
 
-On September 25, [a fuel depot exploded in Artsakh](https://armenpress.am/eng/news/1120814/) as Armenians were queueing up to refuel their vehicles before fleeing. As of September 29, the death toll reportedly stood at 170, with hundreds more severely injured and transported to Armenia for treatment. Several countries dispatched medical teams to Armenia to help treat these burn victims.
+On September 25, [a fuel depot exploded in Artsakh](https://armenpress.am/eng/news/1120814/) as Armenians were queueing up to refuel their vehicles before fleeing. As of September 29, the death toll stood at 170, with hundreds more severely injured and transported to Armenia for treatment. Several countries dispatched medical teams to Armenia to help treat these burn victims.
 
 #### Number of Artsakh refugees who crossed the Armenian border
 
