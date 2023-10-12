@@ -3,7 +3,7 @@
 
 > After blockading Artsakh's 100,000 ethnic Armenians for 10 months, Azerbaijan launched a full-scale military assault and displaced nearly all of the region's population. This modern-day genocide underscores the failure of western diplomacy.
 
-You may freely copy any part of this document to spread awareness. If you are already familiar with this conflict and are wondering how you can help, jump to [what you can do](#what-you-can-do).
+You may freely copy any part of this document to spread awareness.
 
 <!-- omit in toc -->
 ## Table of Contents
@@ -18,8 +18,9 @@ You may freely copy any part of this document to spread awareness. If you are al
     - [Fuel depot explosion](#fuel-depot-explosion)
     - [Number of Artsakh refugees who crossed the Armenian border](#number-of-artsakh-refugees-who-crossed-the-armenian-border)
 - [Aftermath](#aftermath)
+  - [Azeri-led UN mission visits Artsakh](#azeri-led-un-mission-visits-artsakh)
   - [Arrests of Artsakh government officials](#arrests-of-artsakh-government-officials)
-  - [Humanitarian aid for Armenia](#humanitarian-aid-for-armenia)
+  - [Foreign humanitarian aid to Armenia](#foreign-humanitarian-aid-to-armenia)
   - [European Parliament resolution to sanction Azerbaijan](#european-parliament-resolution-to-sanction-azerbaijan)
 - [Complicity in, and failure to prevent, the genocide](#complicity-in-and-failure-to-prevent-the-genocide)
   - [The European Union](#the-european-union)
@@ -54,17 +55,21 @@ In total, Artsakh endured three armed conflicts initiated by Azerbaijan:
 - [Second Nagorno-Karabakh War (2020)](https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War)
 - [Blockade and invasion of Nagorno-Karabakh (September 19, 2023)](https://en.wikipedia.org/wiki/2023_Nagorno-Karabakh_clashes)
 
+Modern Azerbaijani nationalism is deeply rooted in the hatred of Armenians. In addition to the celebration of war crimes committed against Armenians, this enmity is perhaps best evidenced by [the postage stamp that the government of Azerbaijan released in 2020](https://www.new-east-archive.org/articles/show/12442/azerbaijan-stamps-nagorno-karabakh-war-anti-armenian-propaganda) to commemorate its victory over Armenia; it depicts an Azeri soldier in a hazmat suit disinfecting Artsakh.
+
+![A propaganda poster titled Azerbaijan 2020. A man in a hazmat suit stands atop a 3D map of Azerbaijan and sprays the region of Nagorno-Karabakh to "disinfect" it. Below that are photos divided into two halves with a vertical divider: the left half depicts a man in military uniform, while the right half shows the same man wearing a hazmat suit, implying that Azeri soldiers are disinfecting Armenians by fighting against them.](./images/stamp.jpg)
+
 ## The Artsakh Genocide (2022–2023)
 
 ### The Lachin Corridor blockade
 
-On December 12, 2022, [Azerbaijan blockaded the Lachin Corridor](https://www.forbes.com/sites/ewelinaochab/2023/08/08/lachin-corridor-blockade-starves-nagorno-karabakh/)—the sole land link connecting Artsakh to Armenia and the rest of the world—under the fake pretext of [environmental activism](https://time.com/6257467/armenia-azerbaijan-nagorno-karabakh-lachin-environment-icj/). Eventually, the blockade evolved into a coordinated effort to **ethnically cleanse Artsakh** of its Armenian population through starvation and the use of military force.
+On December 12, 2022, [Azerbaijan blockaded the Lachin Corridor](https://www.forbes.com/sites/ewelinaochab/2023/08/08/lachin-corridor-blockade-starves-nagorno-karabakh/)—the sole land link connecting Artsakh to Armenia and the rest of the world—under the fake pretext of [eco-activism](https://time.com/6257467/armenia-azerbaijan-nagorno-karabakh-lachin-environment-icj/). Over the course of the next ten months, the blockade evolved into the ethnic cleansing of Artsakh through prolonged starvation and the use of military force.
 
 ![The Lachin Corridor checkpoint, with an Azerbaijani flag and military personnel.](./images/lachin-checkpoint.jpg)
 
 The [2020 trilateral ceasefire agreement](https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement) signed by Armenia and Azerbaijan is clear about the status of the Lachin Corridor:
 
-> The Lachin Corridor (5 km wide), which will provide a connection between Nagorno-Karabakh and Armenia while not passing through the territory of Shusha, shall remain under the control of the Russian Federation peacemaking forces. The Republic of Azerbaijan shall guarantee the security of persons, vehicles and cargo moving along the Lachin Corridor in both directions. 
+> The Lachin Corridor (5 km wide), which will provide a connection between Nagorno-Karabakh and Armenia while not passing through the territory of Shusha, shall remain under the control of the Russian Federation peacemaking forces. The Republic of Azerbaijan shall guarantee the security of persons, vehicles and cargo moving along the Lachin Corridor in both directions.
 
 In violation of this agreement, Azerbaijan blockaded the Lachin Corridor in December 2022 and prevented the safe passage of persons, vehicles, and cargo in both directions.
 
@@ -103,6 +108,10 @@ On August 15, 2023, photos circulated on social media showing the emaciated body
 
 In late August 2023, the mayor of Paris accompanied [a French convoy of humanitarian aid](https://en.armradio.am/2023/08/30/french-humanitarian-convoy-banned-from-entering-artsakh/) to the Lachin Corridor; they, too, were barred from entering.
 
+That same month, a group of UN experts [urged the government of Azerbaijan to lift the blockade](https://www.ohchr.org/en/press-releases/2023/08/un-experts-urge-azerbaijan-lift-lachin-corridor-blockade-and-end) and end the humanitarian crisis it has caused:
+
+> "The blockade of the Lachin Corridor is a humanitarian emergency that has created severe shortages of essential food staples including sunflower oil, fish, chicken, dairy products, cereal, sugar and baby formula... By lifting the blockade, the authorities can alleviate the suffering of thousands of people in Nagorno-Karabakh and allow for the unimpeded flow of humanitarian assistance to the civilian population... It is essential to ensure the safety, dignity, and well-being of all individuals during this critical time. We urge the Government of Azerbaijan to uphold its international obligations to respect and protect human rights, including the right to food, health, education and life. We also emphasise the importance of cooperation and dialogue among all parties involved to find a peaceful and sustainable resolution to the Nagorno-Karabakh conflict."
+
 ### Azerbaijani propaganda and denial of the genocide
 
 [According to Azerbaijani state propaganda](https://www.politico.eu/article/nagorno-karabakh-armenia-azerbaijan-blockade-checkpoint/), there was never any blockade and people were free to move in either direction. This stance was echoed by Azerbaijan's representative to the UN during [the August 16 emergency UNSC meeting](https://media.un.org/en/asset/k14/k1498sf9lh). At the same time, Azerbaijan proposed transporting its own humanitarian aid via [an alternative land route through the town of Aghdam](https://jam-news.net/baku-offers-road-through-agdam-instead-of-lachin/).
@@ -120,7 +129,7 @@ In early September 2023, Azerbaijan [began massing troops on the border of Artsa
 
 ![A convoy of Azerbaijani military vehicles—all marked with an emblem resembling an upside-down capital letter A—is seen transporting soldiers to the border.](./images/military-convoy.jpg)
 
-On September 19, 2023, [Azerbaijan launched a large-scale assault on Artsakh with drones and mortars](https://www.economist.com/europe/2023/09/19/azerbaijan-wants-to-reintegrate-nagorno-karabakh-through-force), damaging civilian structures, injuring hundreds, killing civilians, and displacing thousands of ethnic Armenians.
+On September 19, 2023, [Azerbaijan launched a large-scale assault on Artsakh](https://www.economist.com/europe/2023/09/19/azerbaijan-wants-to-reintegrate-nagorno-karabakh-through-force)—damaging civilian structures, injuring hundreds, killing civilians, and displacing thousands of ethnic Armenians.
 
 ![Civilian buildings and vehicles damaged by Azerbaijani strikes in Artsakh.](./images/damage.jpg)
 > Image credit: Associated Press
@@ -135,7 +144,7 @@ On September 20, 2023, to prevent the further loss of life, [the government of A
 
 ### The ethnic cleansing of Artsakh
 
-In the aftermath of Azerbaijan's military assault, over 40,000 displaced Armenian refugees initially fled to Stepanakert Airport, with tens of thousands more stranded and encircled by Azeri forces on the outskirts of Artsakh. Many Armenians had lost contact with their family members.
+In the aftermath of Azerbaijan's military assault, over 40,000 initially displaced Armenians sought refuge at Stepanakert Airport, with tens of thousands more stranded and encircled by Azeri forces on the outskirts of Artsakh. Many Armenians had lost contact with their family members.
 
 ![Armenian refugees crowded on the runways of Stepanakert Airport](./images/stepanakert-airport.jpg)
 
@@ -189,8 +198,19 @@ On September 25, [a fuel depot exploded in Artsakh](https://armenpress.am/eng/ne
 [2023-10-01 12:00|100,483|[Armenpress](https://armenpress.am/eng/news/1120958.html)|
 |2023-10-01 16:00|100,490|[Armenpress](https://armenpress.am/eng/news/1120966.html)|
 |2023-10-02|100,520|[Armenpress](https://armenpress.am/eng/news/1121012.html)|
+|2023-10-03 12:00|100,617|[Armenpress](https://armenpress.am/eng/news/1121072.html)|
 
 ## Aftermath
+
+### Azeri-led UN mission visits Artsakh
+
+On October 1, as more than 100,000 Armenians had already left Artsakh, [a UN mission led by Azerbaijan's Resident Coordinator to the UN visited the ethnically cleansed region](https://azerbaijan.un.org/en/248051-un-team-completes-mission-karabakh). Despite the [documented evidence of Azerbaijan's destruction of civilian infrastructure](https://twitter.com/Gegham_Artsakh/status/1708948992183206192/) and targeting of schools and residential buildings, the mission claimed that it witnessed no destruction of civilian property. Moreover, even though virtually no one remained in Artsakh save for government officials and a handful of disabled individuals, the mission also claimed to have interviewed the few that did remain and to have heard no reports of mistreatment of Armenians.
+
+> Traveling from Aghdam, the mission visited the city of Khankendi, where the team met with the local population and interlocutors and saw first-hand the situation regarding health and education facilities.  In parts of the city that the team visited, they saw no damage to civilian public infrastructure, including hospitals, schools and housing, or to cultural and religious structures.  The mission saw that the Government of the Republic of Azerbaijan was preparing for the resumption of health services and some utilities in the city.  The mission saw that no shops were open.
+>
+> The mission saw very few local population remaining in the city.  The team heard from interlocutors that between 50 and 1,000 ethnic Armenians remain in the Karabakh region.
+>
+> The mission was struck by the sudden manner in which the local population left their homes and the suffering the experience must have caused.  The mission did not come across any reports – neither from the local population interviewed nor from the interlocutors - of incidences of violence against civilians following the latest ceasefire.
 
 ### Arrests of Artsakh government officials
 
@@ -200,13 +220,12 @@ Following the dissolution of Artsakh and the mass exodus of refugees to Armenia,
 - [David Babayan](https://www.armenpress.am/eng/news/1120700/), presidential advisor
 - [Levon Mnatsakanyan](https://armenpress.am/eng/news/1120852.html), former commander of the Artsakh Defence Army
 - [Davit Manukyan](https://armenpress.am/eng/news/1120867.html), former First Deputy Commander of the Artsakh Defence Army
-- Arshavir Gharamyan, former director of Artsakh's National Security Service
 - [Bako Sahakyan](https://armenpress.am/eng/news/1121116/), third president of Artsakh (2007–2020)
 - [Arkadi Ghukasyan](https://armenpress.am/eng/news/1121116/), second president of Artsakh (1997–2007)
 - [Davit Ishkhanyan](https://armenpress.am/eng/news/1121116/), president of the Artsakh National Assembly
 - [Arayik Harutyunyan](https://apnews.com/article/azerbaijan-nagorno-karabakh-armenia-separatist-arrest-dcbb7290c2f3343c5e1c37827fd50533), fourth president of Artsakh (2020–2023)
 
-### Humanitarian aid for Armenia
+### Foreign humanitarian aid to Armenia
 
 To help Armenia deal with the influx of refugees from Artsakh, foreign governments and non-profits offered various forms of humanitarian aid to Armenia and organizations providing aid in the region:
 
@@ -236,9 +255,9 @@ To help Armenia deal with the influx of refugees from Artsakh, foreign governmen
 On October 5, 2023, members of the European Parliament (MEPs) voted on [a resolution condemning Azerbaijan's ethnic cleansing of Artsakh](https://www.europarl.europa.eu/news/en/press-room/20230929IPR06132/nagorno-karabakh-meps-demand-review-of-eu-relations-with-azerbaijan). The overwhelming majority of the MEPs—491 in favor, 9 against, and 36 abstained—called on the European Union to adopt sanctions against Azerbaijan and reconsider its relations with Baku.
 
 > In a resolution adopted on Thursday, Parliament strongly condemns Azerbaijan’s pre-planned and unjustified military attack against Nagorno-Karabakh on 19 September, which MEPs say constitutes a gross violation of international law and human rights and a clear infringement of previous attempts to achieve a ceasefire. With over 100,000 ethnic Armenians having been forced to flee the enclave since the latest offensive, MEPs say the current situation amounts to ethnic cleansing and strongly condemn threats and violence committed by Azerbaijani troops against the Armenian inhabitants of Nagorno-Karabakh.
-> 
+>
 > They also call on the EU and member states to immediately offer all necessary assistance to Armenia to deal with the influx of refugees from Nagorno-Karabakh and the subsequent humanitarian crisis.
-> 
+>
 > Appalled by Azerbaijan’s latest attack, Parliament calls on the EU to adopt targeted sanctions against the government officials in Baku responsible for multiple ceasefire violations and human rights abuses in Nagorno-Karabakh. While reminding the Azeri side that it bears full responsibility for ensuring the safety and well-being of all people in the enclave, MEPs demand investigations into abuses committed by Azerbaijani troops that may constitute war crimes.
 
 ## Complicity in, and failure to prevent, the genocide
@@ -247,7 +266,7 @@ The UN's [Genocide Convention](https://www.un.org/en/genocideprevention/genocide
 
 > Importantly, the Convention establishes on State Parties the obligation to take measures to prevent and to punish the crime of genocide, including by enacting relevant legislation and punishing perpetrators, “whether they are constitutionally responsible rulers, public officials or private individuals” (Article IV). That obligation, in addition to the prohibition not to commit genocide, have been considered as norms of international customary law and therefore, binding on all States, whether or not they have ratified the Genocide Convention.
 
-Despite this responsibility, several countries and politicians are morally complicit in this genocide—through inaction, corruption, and their funding of Azerbaijan's petro-dictatorship.
+Despite this responsibility, several countries and politicians were morally complicit in this genocide through their inaction, corruption, and business dealings with Azerbaijan despite its record of human rights abuses and war crimes.
 
 ### The European Union
 
@@ -290,7 +309,7 @@ In 1992, after the first Artsakh war, Congress passed the Freedom Support Act; [
 
 President Biden never issued any statements concerning Azerbaijan's nine-month blockade of President Aliyev. Biden also did not mention or denounce Azerbaijan's shelling of Artsakh on September 19, the same day he was attending the 78th UN General Assembly during which he [proudly proclaimed](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-president-biden-before-the-78th-session-of-the-united-nations-general-assembly-new-york-ny/):
 
-> If we abandon the core principles of the UN Charter to appease an aggressor, can any member state in this body feel confident that they are protected? 
+> If we abandon the core principles of the UN Charter to appease an aggressor, can any member state in this body feel confident that they are protected?
 
 [Yuri Kim](https://www.state.gov/biographies/yuri-kim/), Principal Deputy Assistant Secretary of State for Europe and Eurasian Affairs, [claimed during a September 14 hearing](https://www.foreign.senate.gov/hearings/assessing-the-crisis-in-nagorno-karabakh) that the United States would not tolerate the use of military force to settle the disputes over Artsakh:
 
@@ -336,7 +355,7 @@ The links below provide important context on this decades-long conflict between 
 ### War crimes and crimes against humanity committed by Azerbaijan
 - [Willful killing, mutilation, torture, and inhuman treatment of Armenians by Azerbaijani forces](https://azeriwarcrimes.org/atrocities/) | [Archive](https://web.archive.org/web/20230530133232/https://azeriwarcrimes.org/atrocities/)
 - [Aliyev Awards Officer who Decapitated Artsakh Soldier](https://asbarez.com/aliyev-awards-officer-who-decapitated-artsakh-soldier/) | [Archive](https://web.archive.org/web/20230803182352/https://asbarez.com/aliyev-awards-officer-who-decapitated-artsakh-soldier/)
-- [Hero’s welcome for Azerbaijan axe murderer](https://www.aljazeera.com/news/2012/9/2/heros-welcome-for-azerbaijan-axe-murderer) | [Archive](https://web.archive.org/web/20230531001742/https://www.aljazeera.com/news/2012/9/2/heros-welcome-for-azerbaijan-axe-murderer)
+- [Prisoner Without Conscience Pardoned and Promoted](https://www.amnestyusa.org/updates/prisoner-without-conscience-pardoned-and-promoted/) | [Archive](https://web.archive.org/web/20230815192747/https://www.amnestyusa.org/updates/prisoner-without-conscience-pardoned-and-promoted/)
 - [An Execution in Hadrut](https://www.bellingcat.com/news/rest-of-world/2020/10/15/an-execution-in-hadrut-karabakh/) | [Archive](https://web.archive.org/web/20230718170939/https://www.bellingcat.com/news/rest-of-world/2020/10/15/an-execution-in-hadrut-karabakh/)
 - [Two men beheaded in videos from Nagorno-Karabakh war identified](https://www.theguardian.com/world/2020/dec/15/two-men-beheaded-in-videos-from-nagorno-karabakh-war-identified) | [Archive](https://web.archive.org/web/20230603193725/https://www.theguardian.com/world/2020/dec/15/two-men-beheaded-in-videos-from-nagorno-karabakh-war-identified)
 - [Video Shows Azerbaijan Forces Executing Armenian POWs](https://www.hrw.org/news/2022/10/14/video-shows-azerbaijan-forces-executing-armenian-pows) | [Archive](https://web.archive.org/web/20230726233956/https://www.hrw.org/news/2022/10/14/video-shows-azerbaijan-forces-executing-armenian-pows)
@@ -368,9 +387,8 @@ The links below provide important context on this decades-long conflict between 
 - [Azerbaijan Desecrates Armenian Cultural and Religious Heritage](https://providencemag.com/2022/12/azerbaijan-desecrates-armenian-cultural-and-religious-heritage/) | [Archive](https://web.archive.org/web/20230604232614/https://news.cornell.edu/stories/2022/09/report-shows-near-total-erasure-armenian-heritage-sites)
 - [Is the Destruction of Armenian Heritage Not Important Enough for the Getty? ](https://hyperallergic.com/804374/is-the-destruction-of-armenian-heritage-not-important-enough-for-the-getty/) | [Archive](https://web.archive.org/web/20230627023942/https://hyperallergic.com/804374/is-the-destruction-of-armenian-heritage-not-important-enough-for-the-getty/)
 
-### Caviar diplomacy: Azerbaijani lobbying and influence in Western media and politics 
+### Caviar diplomacy: Azerbaijani lobbying and influence in Western media and politics
 - [UK at centre of secret $3bn Azerbaijani money laundering and lobbying scheme](https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme) | [Archive](https://web.archive.org/web/20230607235216/https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme)
 - [How an Authoritarian Regime Infiltrated a Government in the Heart of Europe](https://www.vice.com/en/article/qjp74b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev) | [Archive](https://web.archive.org/web/20230512103544/https://www.vice.com/en/article/qjp74b/azerbaijan-lobbying-germany-angela-merkel-ilham-aliyev)
 - [What’s Behind All the Pro-Azerbaijan Articles?](https://armenianweekly.com/2020/10/24/whats-behind-all-the-pro-azerbaijan-articles/) | [Archive](https://web.archive.org/web/20230201001152/https://armenianweekly.com/2020/10/24/whats-behind-all-the-pro-azerbaijan-articles/)
 - [Emily Schrader, an American-Israeli journalist, breaks down Azerbaijan's lobbying campaign in Israel, including bribery of journalists](https://twitter.com/emilykschrader/status/1705124892281123153) | [Archive](https://web.archive.org/web/20230923190252/https://twitter.com/emilykschrader/status/1705124892281123153)
-
