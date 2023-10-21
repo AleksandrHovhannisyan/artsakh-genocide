@@ -240,12 +240,14 @@ To help Armenia deal with the influx of refugees from Artsakh, foreign governmen
 |Japan|$2 million|[Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/press/release/press4e_003308.html)|
 |Norway|$1.85 million|[armradio.am](https://en.armradio.am/2023/09/30/norway-contributes-1-85-million-in-humanitarian-assistance-to-the-civilian-population-of-nagorno-karabakh/)|
 |Spain|€1 million|[Minister of Foreign Affairs José Manuel Albares](https://twitter.com/jmalbares/status/1707437064323543504)|
+|Australia|$500k|[Minister of Foreign Affairs Penny Wong](https://www.foreignminister.gov.au/minister/penny-wong/media-release/support-nagorno-karabakh-armenians)|
 |World Food Programme (WFP)|<ul><li>4,000 food packages</li><li>21,000 hot meals</li><li>food parcels for 30,000 people</li><li>food cards for 6,000 people</li></ul>|[wfp.org](https://www.wfp.org/news/world-food-programme-responds-humanitarian-crisis-thousands-people-flee-armenia)|
 |Poland|<ul><li>10 tons of food</li><li>200 beds</li><li>$200,000 in monetary aid</li></ul>|[gov.pl](https://www.gov.pl/web/diplomacy/deputy-minister-wojciech-gerwel-takes-part-in-delivery-of-humanitarian-aid-to-armenia)|
 |Lithuania|€350k|[Minister of Foreign Affairs Gabrielius Landsbergis](https://twitter.com/GLandsbergis/status/1709561317718102359)|
 |Czech Republic|€200k|[Ambassador of the Czech Republic to Armenia](https://twitter.com/petr_piruncik/status/1709212618286592087), [](https://twitter.com/JanezLenarcic/status/1710582811613135031)|
 |Belgium|Dispatched a medical team to Armenia to help treat victims of the September 25 fuel depot explosion.|[diplomatie.belgium.be](https://diplomatie.belgium.be/en/news/b-fast-offers-medical-assistance-armenia-after-explosion-fuel-depot-nagorno-karabakh)|
 |Iran|60 tons of humanitarian aid|[news.am](https://news.am/eng/news/784768.html)|
+|Russia|6 tons of humanitarian aid|[armenpress.am](https://armenpress.am/eng/news/1121907.html)|
 |Israel|Dispatched a medical team to Armenia to help treat victims of the September 25 fuel depot explosion.|[jpost.com](https://www.jpost.com/israel-news/article-761887)|
 |World Health Organization (WHO)|<ul><li>Support for victims of the fuel depot explosion in Artsakh.</li><li>Three months' worth of medicine to cover the treatment of non-communicable diseases for 50,000 people.</li></ul>|[who.int](https://www.who.int/europe/news/item/01-10-2023-racing-to-meet-the-health-needs-of-refugees-entering-armenia)|
 |UNICEF|Support for children displaced by the conflict.|[news.un.org](https://news.un.org/en/audio/2023/10/1141972)|
